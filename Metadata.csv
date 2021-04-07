@@ -1,0 +1,153 @@
+﻿"""Exclusions.csv"" metadata",,
+Column,Value,Description
+Reference,Text,Full citation of excluded reference in English or original language if no English version is available
+Reference_Alternative,Text,Full citation of excluded reference in a second language
+Reason_for_Exclusion,No access,Unable to obtain copy of reference
+,Anuran,Study organism was of the Order Anura
+,Crocodilian,Study organism was of the Order Crocodilia
+,Bird,Study organism was of the Class Aves
+,Fish,Study organism was of the Class Osteichthyes or Chondrichthyes
+,Salamander,Study organism was of the Order Caudata
+,Squamate,Study organism was of the Order Squamata
+,Tuatara,Study organism was of the Order Rhynchocephalia
+,No sex ratio data,Reference did not contain data on proportions of males/females
+,No hatchling sex ratio data,Reference did not contain data on proportions of male/female hatchlings - may contain data on adult sex ratios
+,No new data,All data within reference were previously reported in another reference included in the database
+,Estimated hatchling sex ratios,No direct measurement or observation of hatchling sex ratios - estimated with both incubation length and temperature data
+,Estimated hatchling sex ratios with incubation length data,No direct measurement or observation of hatchling sex ratios - estimated with incubation length data
+,Estimated hatchling sex ratios with temperature data,No direct measurement or observation of hatchling sex ratios - estimated with temperature data
+Notes,Text,Additional data on reason for exclusion or details on manuscript
+Occurrences,Integer,Number of times reference occurred in Web of Science search results
+,,
+"""Database.csv"" metadata",,
+Column,Value,Description
+Source,Text,Full citation of excluded reference in English or original language if no English version is available
+Source_Alternate,Text,Full citation of excluded reference in a second language
+WoS,Integer,Number of times reference occurred in Web of Science search results
+Other,0,Reference found in Web of Science search results
+,1,Reference found outside of Web of Science search results
+Data_Location,Text,"Description of data location within reference (text, figures, tables, supplements, etc.)"
+Data_Elsewhere,0,Data is not included in any other reference within the database
+,1,Data is included in another reference within the database
+,?,"Data is thought to occur in another reference within the database, but duplication is unconfirmed"
+Order,Text,Order of study organism in reference
+Family,Text,Family of study organism in reference
+Genus,Text,Genus of study organism in reference
+Species,Text,Species of study organism in reference
+Subspecies,Text,Subspecies of study organism in reference
+Species_Listed_As,Text,Scientific name of study organism provided in reference if not matching current taxonomy
+SDM,Text,Confirmed or likely sex-determining mechanism of species
+Location,Text,Description of sampling location for eggs or location of incubation if sampling location is not provided
+Latitude,Numeric,North-south coordinates for location
+Longitude,Numeric,East-west coordinates for location
+Accurate,0,"Organisms sampled over a large area (e.g., multiple states/provinces) or description of location is vague (e.g., ""Southeast United States"")"
+,0.5,"Organisms sampled over an intermediately-sized area (state county, several close water bodies, etc.)"
+,1,"Organisms sampled in a small area, well-described location"
+Captive,0,Eggs taken from wild individuals
+,0.5,Eggs taken from both captive and wild individuals
+,1,Eggs taken from captive individuals; includes wild-caught and captive-raised
+Outdoors,0,Nesting adults live indoors
+,0.5,Nesting adults live indoors and outdoors
+,1,Nesting adults live outdoors
+Within_Species_Range,0,Nesting adults live within native range of the species
+,1,Nesting adults live outside native range of the species
+Nest_Year_Start,Integer,Start of turtle nesting / egg collection
+Nest_Year_Finish,Integer,End of turtle nesting / egg collection
+Nest_Month_Start,Integer,Start of turtle nesting / egg collection
+Nest_Month_Finish,Integer,End of turtle nesting / egg collection
+Incubation_Setup,Artificial nest,Eggs incubated in a human-made nest
+,Backswitch,Eggs switched between incubation temperatures at select points in development
+,Constant,"Eggs incubated at single, unchanging temperature throughout development"
+,Fluctuating,Eggs incubated under temperatures varying a set amount around a mean value
+,Indoor container,Eggs incubated in a container indoors; does not necessarily indicate controlled incubation temperatures
+,Natural program,Eggs incubated in a programmable incubator set to match a natural temperature regime
+,Nest,Eggs incubated in natural nest
+,Outdoor container,"Eggs incubated in a container outdoors, generally under an open shelter (i.e., pavilion, covered patio)"
+Substrate,Text,Description of incubation substrate; may also include information on ratio of substrate:water
+Water_Content,Negative integer,Water potential in units of kPa
+,Percentage,Percent soil moisture
+Humidity,Numeric,Relative humidity of incubation chamber between 0 and 1
+Thermometer_Location,Container,Temperature recorded within the incubation container
+,Container center,Temperature recorded in the center of the eggs within the incubation container
+,Incubator,Temperature recorded within the incubator
+,Incubator center,Temperature recorded in the center of the incubator
+,Incubator shelf,Temperature recorded on each shelf in the incubator
+,Nest,Temperature recorded in the nest
+,Nest adjacent,Temperature recorded in substrate directly adjacent to the nest
+,Nest bottom,Temperature recorded at the bottom of the nest below all eggs
+,Nest center,Temperature recorded in the center of the eggs in the nest
+,Nest top,Temperature recorded at the top of the nest above all eggs
+,Next to each egg,Temperature recorded by each egg within the incubator
+Set_Temp,Numeric,Incubator temperature setting in Celsius
+Mean_Temp,Numeric,Mean of actual/recorded incubator temperature in Celsius
+CTE,Numeric,Constant temperature equivalent (CTE) for variable incubation regimes in Celsius
+Fluctuation,Numeric,Fluctuation above and below mean temperature in Celsius
+Mean_SE,Numeric,Standard error of mean temperature value
+Mean_SD,Numeric,Standard deviation of mean temperature value
+Min_Temp,Numeric,Minimum temperature experienced during incubation
+Max_Temp,Numeric,Maximum temperature experienced during incubation
+TSP_Mean_Temp,Numeric,Mean temperature during the thermosensitive period of development (TSP)
+TSP_Mean_SE,Numeric,Standard error of mean temperature during TSP
+TSP_Mean_SD,Numeric,Standard deviation of mean temperature during TSP
+TSP_Variance,Numeric,Variance of mean temperature during TSP
+TSP_Min_Temp,Numeric,Minimum temperature experienced during the TSP
+TSP_Max_Temp,Numeric,Maximum temperature experienced during the TSP
+Backswitch_Start,Integer,Day at which eggs are switched to second incubation temperature
+,Text,Developmental stage at which eggs are switched to second incubation temperature
+Backswitch_Length,Integer,Length of time spent at second incubation temperature in days
+,Text,Developmental stage at which eggs leave the second incubation temperature
+Backswitch_Base_Temp,Numeric,Incubation temperature in Celsius prior to first switch
+Backswitch_Temp,Numeric,Incubation temperature in Celsius after first switch
+Backswitch_Final_Temp,Numeric,Incubation temperature in Celsius after second switch
+Chemical_Treatment,Text,Name of chemical applied during embryonic development
+Chemical_Mass_μg,Numeric,Mass of chemical applied to egg in micrograms
+Chemical_Concentration,Numeric,"Molar concentration of chemical solution applied to egg if liquid, % concentration for gases and ethanol given as a value between 0 and 1"
+Chemical_Volume_μL,Numeric,Volume of chemical solution applied to egg in microliters
+Number_Applications,Integer,Number of times the chemical treatment was applied
+,Daily,Treatment applied every day of incubation
+,Constant,Eggs exposed to gaseous treatment continually
+Application_Route,Gas,"Gas concentrations (CO2, O2) manipulated in incubation chambers"
+,Injection,Chemical treatment injected into developing egg
+,Substrate,Chemical treatment mixed with incubation substrate
+,Topical,Chemical treatment applied to egg surface
+Stage_First_Application,Numeric,Developmental stage at which the chemical treatment was first applied
+Day_First_Application,Integer,Days since beginning of incubation at which the chemical treatment was first applied
+Stage_Last_Application,Integer,Developmental stage at which the chemical treatment was last applied
+Day_Last_Application,Integer,Days since beginning of incubation at which the chemical treatment was last applied
+Number_Clutches_Experiment,Integer,Total number of clutches used in reference
+Number_Clutches_Treatment,Integer,Number of clutches used in specific data row
+Clutch_ID,Integer,Unique numbers of each clutch used in specific data row
+Total_Incubated_Experiment,Integer,Total number of eggs used in reference
+Total_Incubated_Treatment,Integer,Number of eggs used in specific data row
+Total_Hatched,Integer,Number of hatchlings produced
+Proportion_Hatching,Numeric,Proportion of eggs producing hatchlings
+Mean_Incubation_Duration,Numeric,Mean time in days between beginning of incubation and hatching
+Incubation_Standard_Error,Numeric,Standard error of mean incubation duration
+Incubation_Standard_Deviation,Numeric,Standard deviation of mean incubation duration
+Min_Incubation_Duration,Numeric,Shortest incubation duration in days
+Max_Incubation_Duration,Numeric,Longest incubation duration in days
+Sexing_Method,Endoscopy,Determined sex via endoscopic examination of gonads
+,Histology,Determined sex via microscopic examination of gonad slides
+,Hormone assay,Determined sex via radioimmunoassays of relevant hormones
+,Macroscopy,Determined sex via macroscopic examination of gonad structure
+,Morphometrics,"Determined sex via external morphometry (e.g., shell shape)"
+,RT-qPCR,Determined sex via relative expression of sex-linked genes
+,Secondary characeristics,Determined sex via sexually dimorphic traits
+Sexed_Condition,Dead,Sexed offspring that died naturally
+,Live,Non-lethal sexing of live offspring
+,Sacrificed,Lethal sexing of live offspring
+Sexed_Age_Class,Adults,Sexed adults raised in captivity from known incubation conditions
+,Embryos,Sexed embryos prior to completion of development
+,Hatchlings,Sexed individuals after hatching
+Sexed_Age_Weeks,Numeric,Time in weeks between hatching and sexing procedure
+,Text,Embryonic stage at which sexing procedure occurred
+Vouchers,0.5,Some voucher specimens deposited in collection
+,1,All specimens deposited in collection
+Total_Sexed,Numeric,Total number of individuals sexed
+Males,Numeric,Number of individuals presenting testes
+Females,Numeric,Number of individuals presenting ovaries
+Intersex,Numeric,Number of individuals presenting intermediate gonads
+Undetermined,Numeric,"Number of individuals unable to be sexed accurately (e.g., due to damage)"
+Proportion_Male,Numeric,Proportion of sexed individuals presenting testes
+Proportion_Female,Numeric,Proportion of sexed individuals presenting ovaries
+Notes,Text,"Additional notes on details in reference, data entered in database, etc."
