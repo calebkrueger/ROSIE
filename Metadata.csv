@@ -1,35 +1,5 @@
-﻿"""Exclusions.csv"" metadata",,
+﻿"""Database.csv"" metadata",,
 Column,Value,Description
-Reference,Text,Full citation of excluded reference in English or original language if no English version is available
-Reference_Alternative,Text,Full citation of excluded reference in a second language
-Reason_for_Exclusion,No access,Unable to obtain copy of reference
-,Anuran,Study organism was of the Order Anura
-,Crocodilian,Study organism was of the Order Crocodilia
-,Bird,Study organism was of the Class Aves
-,Fish,Study organism was of the Class Osteichthyes or Chondrichthyes
-,Salamander,Study organism was of the Order Caudata
-,Squamate,Study organism was of the Order Squamata
-,Tuatara,Study organism was of the Order Rhynchocephalia
-,No sex ratio data,Reference did not contain data on proportions of males/females
-,No hatchling sex ratio data,Reference did not contain data on proportions of male/female hatchlings - may contain data on adult sex ratios
-,No new data,All data within reference were previously reported in another reference included in the database
-,Estimated hatchling sex ratios,No direct measurement or observation of hatchling sex ratios - estimated with both incubation length and temperature data
-,Estimated hatchling sex ratios with incubation length data,No direct measurement or observation of hatchling sex ratios - estimated with incubation length data
-,Estimated hatchling sex ratios with temperature data,No direct measurement or observation of hatchling sex ratios - estimated with temperature data
-Notes,Text,Additional data on reason for exclusion or details on manuscript
-Occurrences,Integer,Number of times reference occurred in Web of Science search results
-,,
-"""Database.csv"" metadata",,
-Column,Value,Description
-Source,Text,Full citation of excluded reference in English or original language if no English version is available
-Source_Alternate,Text,Full citation of excluded reference in a second language
-WoS,Integer,Number of times reference occurred in Web of Science search results
-Other,0,Reference found in Web of Science search results
-,1,Reference found outside of Web of Science search results
-Data_Location,Text,"Description of data location within reference (text, figures, tables, supplements, etc.)"
-Data_Elsewhere,0,Data is not included in any other reference within the database
-,1,Data is included in another reference within the database
-,?,"Data is thought to occur in another reference within the database, but duplication is unconfirmed"
 Order,Text,Order of study organism in reference
 Family,Text,Family of study organism in reference
 Genus,Text,Genus of study organism in reference
@@ -37,9 +7,11 @@ Species,Text,Species of study organism in reference
 Subspecies,Text,Subspecies of study organism in reference
 Species_Listed_As,Text,Scientific name of study organism provided in reference if not matching current taxonomy
 SDM,Text,Confirmed or likely sex-determining mechanism of species
+SDM_Confirmed,0,SDM likely
+,1,SDM certain
 Location,Text,Description of sampling location for eggs or location of incubation if sampling location is not provided
-Latitude,Numeric,North-south coordinates for location
-Longitude,Numeric,East-west coordinates for location
+Latitude,Numeric,North-south coordinates for location in decimal degrees
+Longitude,Numeric,East-west coordinates for location in decimal degrees
 Accurate,0,"Organisms sampled over a large area (e.g., multiple states/provinces) or description of location is vague (e.g., ""Southeast United States"")"
 ,0.5,"Organisms sampled over an intermediately-sized area (state county, several close water bodies, etc.)"
 ,1,"Organisms sampled in a small area, well-described location"
@@ -78,27 +50,27 @@ Thermometer_Location,Container,Temperature recorded within the incubation contai
 ,Nest center,Temperature recorded in the center of the eggs in the nest
 ,Nest top,Temperature recorded at the top of the nest above all eggs
 ,Next to each egg,Temperature recorded by each egg within the incubator
-Set_Temp,Numeric,Incubator temperature setting in Celsius
-Mean_Temp,Numeric,Mean of actual/recorded incubator temperature in Celsius
-CTE,Numeric,Constant temperature equivalent (CTE) for variable incubation regimes in Celsius
-Fluctuation,Numeric,Fluctuation above and below mean temperature in Celsius
-Mean_SE,Numeric,Standard error of mean temperature value
-Mean_SD,Numeric,Standard deviation of mean temperature value
-Min_Temp,Numeric,Minimum temperature experienced during incubation
-Max_Temp,Numeric,Maximum temperature experienced during incubation
-TSP_Mean_Temp,Numeric,Mean temperature during the thermosensitive period of development (TSP)
-TSP_Mean_SE,Numeric,Standard error of mean temperature during TSP
-TSP_Mean_SD,Numeric,Standard deviation of mean temperature during TSP
-TSP_Variance,Numeric,Variance of mean temperature during TSP
-TSP_Min_Temp,Numeric,Minimum temperature experienced during the TSP
-TSP_Max_Temp,Numeric,Maximum temperature experienced during the TSP
+Set_Temp,Numeric,Incubator temperature setting in degrees Celsius
+Mean_Temp,Numeric,Mean of actual/recorded incubator temperature in degrees Celsius
+CTE,Numeric,Constant temperature equivalent (CTE) for variable incubation regimes in degrees Celsius
+Fluctuation,Numeric,Fluctuation above and below mean temperature in degrees Celsius
+Mean_Temp_SE,Numeric,Standard error of mean temperature value in degrees Celsius
+Mean_Temp_SD,Numeric,Standard deviation of mean temperature value in degrees Celsius
+Min_Temp,Numeric,Minimum temperature experienced during incubation in degrees Celsius
+Max_Temp,Numeric,Maximum temperature experienced during incubation in degrees Celsius
+TSP_Mean_Temp,Numeric,Mean temperature during the thermosensitive period of development (TSP) in degrees Celsius
+TSP_Mean_SE,Numeric,Standard error of mean temperature during TSP in degrees Celsius
+TSP_Mean_SD,Numeric,Standard deviation of mean temperature during TSP in degrees Celsius
+TSP_Variance,Numeric,Variance of mean temperature during TSP in degrees Celsius
+TSP_Min_Temp,Numeric,Minimum temperature experienced during the TSP in degrees Celsius
+TSP_Max_Temp,Numeric,Maximum temperature experienced during the TSP in degrees Celsius
 Backswitch_Start,Integer,Day at which eggs are switched to second incubation temperature
 ,Text,Developmental stage at which eggs are switched to second incubation temperature
 Backswitch_Length,Integer,Length of time spent at second incubation temperature in days
 ,Text,Developmental stage at which eggs leave the second incubation temperature
-Backswitch_Base_Temp,Numeric,Incubation temperature in Celsius prior to first switch
-Backswitch_Temp,Numeric,Incubation temperature in Celsius after first switch
-Backswitch_Final_Temp,Numeric,Incubation temperature in Celsius after second switch
+Backswitch_Base_Temp,Numeric,Incubation temperature in degrees Celsius prior to first switch
+Backswitch_Temp,Numeric,Incubation temperature in degrees Celsius after first switch
+Backswitch_Final_Temp,Numeric,Incubation temperature in degrees Celsius after second switch
 Chemical_Treatment,Text,Name of chemical applied during embryonic development
 Chemical_Mass_μg,Numeric,Mass of chemical applied to egg in micrograms
 Chemical_Concentration,Numeric,"Molar concentration of chemical solution applied to egg if liquid, % concentration for gases and ethanol given as a value between 0 and 1"
@@ -132,15 +104,16 @@ Sexing_Method,Endoscopy,Determined sex via endoscopic examination of gonads
 ,Macroscopy,Determined sex via macroscopic examination of gonad structure
 ,Morphometrics,"Determined sex via external morphometry (e.g., shell shape)"
 ,RT-qPCR,Determined sex via relative expression of sex-linked genes
-,Secondary characeristics,Determined sex via sexually dimorphic traits
+,Secondary characteristics,Determined sex via sexually dimorphic traits
 Sexed_Condition,Dead,Sexed offspring that died naturally
 ,Live,Non-lethal sexing of live offspring
 ,Sacrificed,Lethal sexing of live offspring
-Sexed_Age_Class,Adults,Sexed adults raised in captivity from known incubation conditions
+Sexed_Age_Class,Adults,Sexed mature adults raised in captivity from known incubation conditions
 ,Embryos,Sexed embryos prior to completion of development
-,Hatchlings,Sexed individuals after hatching
-Sexed_Age_Weeks,Numeric,Time in weeks between hatching and sexing procedure
-,Text,Embryonic stage at which sexing procedure occurred
+,Hatchlings,Sexed individuals <1 year after hatching
+,Juveniles,Sexed individuals >1 year old but not yet sexually mature
+Sexed_Age_Weeks,Numeric,Time in weeks between hatching and sexing procedure; indicates youngest age sexed if multiple ages sexed
+,Text,Embryonic stage at which sexing procedure occurred; indicates earliest stage sexed if multiple stages sexed
 Vouchers,0.5,Some voucher specimens deposited in collection
 ,1,All specimens deposited in collection
 Total_Sexed,Numeric,Total number of individuals sexed
@@ -150,4 +123,54 @@ Intersex,Numeric,Number of individuals presenting intermediate gonads
 Undetermined,Numeric,"Number of individuals unable to be sexed accurately (e.g., due to damage)"
 Proportion_Male,Numeric,Proportion of sexed individuals presenting testes
 Proportion_Female,Numeric,Proportion of sexed individuals presenting ovaries
+Source,Text,Full citation of included reference in English or original language if no English version is available
+Source_Alternate,Text,Full citation of included reference in a second language
+WoS,Integer,Number of times reference occurred in Web of Science search results
+Other,0,Reference found in Web of Science search results
+,1,Reference found outside of Web of Science search results
+Data_Location,Text,"Description of data location within reference (text, figures, tables, supplements, etc.)"
+Data_Elsewhere,0,Data is not duplicated in any other reference within the database
+,1,"Data represents a subset of data in another reference or the same data presented in a different format (e.g., sex ratios broken down by clutch vs by study year)"
+,?,Data is thought to represent a subset of data in another reference or the same data presented in a different format
 Notes,Text,"Additional notes on details in reference, data entered in database, etc."
+,,
+"""SDM.csv"" metadata",,
+Order,Text,Order of study organism in data row
+Family,Text,Family of study organism in data row
+Genus,Text,Genus of study organism in data row
+Species,Text,Species of study organism in data row
+SDM,TSD,Species exhibits temperature-dependent sex determination
+,GSD,Species exhibits genotypic sex determination
+SDM_Confidence,0,SDM classification not confidently assigned
+,1,SDM classification confidently assigned
+Type,Ia,Species exhibits pattern Ia TSD
+,II,Species exhibits pattern II TSD
+,XY,Species exhibits male heterogamety
+,ZW,Species exhibits female heterogamety
+Type_Confidence,0,Type classification not confidently assigned
+,1,Type classification confidently assigned
+Source_1,Text,Full citation of reference supporting SDM classification
+,"""Database.csv""","SDM classification based on data contained in ""Database.csv"""
+Source_2,Text,Full citation of additional reference supporting SDM classification
+Source_3,Text,Full citation of additional reference supporting SDM classification
+Notes,Text,"Additional notes on details in sources, details behind confidence assignments, etc."
+,,
+"""Exclusions.csv"" metadata",,
+Column,Value,Description
+Reference,Text,Full citation of excluded reference in English or original language if no English version is available
+Reference_Alternative,Text,Full citation of excluded reference in a second language
+Reason_for_Exclusion,No access,Unable to obtain copy of reference
+,Anuran,Study organism was of the order Anura
+,Crocodilian,Study organism was of the order Crocodilia
+,Bird,Study organism was of the class Aves
+,Fish,Study organism was of the class Osteichthyes or Chondrichthyes
+,Salamander,Study organism was of the order Caudata
+,Squamate,Study organism was of the order Squamata
+,Tuatara,Study organism was of the order Rhynchocephalia
+,No hatchling sex ratio data,Reference did not contain data on proportions of male/female hatchlings or offspring - may contain data on adult sex ratios
+,No new data,All data within reference were previously reported in another reference included in the database
+,Estimated hatchling sex ratios,No direct measurement or observation of hatchling sex ratios - estimated with both incubation length and temperature data
+,Estimated hatchling sex ratios with incubation length data,No direct measurement or observation of hatchling sex ratios - estimated with incubation length data
+,Estimated hatchling sex ratios with temperature data,No direct measurement or observation of hatchling sex ratios - estimated with temperature data
+Notes,Text,Additional data on reason for exclusion or details on manuscript
+Occurrences,Integer,Number of times reference occurred in Web of Science search results
