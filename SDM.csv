@@ -1,357 +1,358 @@
-Order,Family,Genus,Species,Subspecies,SDM,SDM_Confidence,Type,Type_Confidence,Source_1,Source_2,Source_3,Notes
-Testudines,Chelidae,Acanthochelys,Acanthochelys_macrocephala,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Chelidae,Acanthochelys,Acanthochelys_pallidipectoris,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Chelidae,Acanthochelys,Acanthochelys_radiolata,NA,GSD,1,XY,1,"McBee, K., Bickham, J. W., Rhodin, A. G. J., & Mittermeier, R. A. (1985). Karyotypic variation in the genus Platemys (Testudines: Pleurodira). Copeia, 1985(2), 445-449.",NA,NA,Classification based on single male karyotype; classification confident based on other chelids
-Testudines,Chelidae,Acanthochelys,Acanthochelys_spixii,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Testudinidae,Aldabrachelys,Aldabrachelys_gigantea,"gigantea, arnoldi, hololissa",TSD,1,NA,NA,Database.csv,NA,NA,NA
-Testudines,Trionychidae,Amyda,Amyda_cartilaginea,"cartilaginea, maculosa, ornata, phayrei",GSD,1,ZW,1,Database.csv,"Rovatsos, M., Praschag, P., Fritz, U., & Kratochvíl, L. (2017). Stable Cretaceous sex chromosomes enable molecular sexing in softshell turtles (Testudines: Trionychidae). Scientific Reports, 7(1), 42150.",NA,NA
-Testudines,Trionychidae,Amyda,Amyda_ornata,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Trionychidae,Apalone,Apalone_ferox,NA,GSD,1,NA,NA,Database.csv,NA,NA,13M:13F from a single incubation temperature; classification confident based on other trionychids
-Testudines,Trionychidae,Apalone,Apalone_mutica,"mutica, calvata",GSD,1,NA,NA,Database.csv,NA,NA,NA
-Testudines,Trionychidae,Apalone,Apalone_spinifera,"spinifera, aspera, atra, emoryi, guadalupensis, pallida",GSD,1,ZW,1,Database.csv,"Badenhorst, D., Stanyon, R., Engstrom, T., & Valenzuela, N. (2013). A ZZ/ZW microchromosome system in the spiny softshell turtle, Apalone spinifera, reveals an intriguing sex chromosome conservation in Trionychidae. Chromosome Research, 21(2), 137-147.",NA,NA
-Testudines,Testudinidae,Astrochelys,Astrochelys_radiata,NA,TSD,1,NA,NA,Database.csv,NA,NA,NA
-Testudines,Testudinidae,Astrochelys,Astrochelys_yniphora,NA,TSD,1,NA,NA,Database.csv,NA,NA,NA
-Testudines,Geoemydidae,Batagur,Batagur_affinis,"affinis, edwardmolli",TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Geoemydidae,Batagur,Batagur_baska,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Geoemydidae,Batagur,Batagur_borneoensis,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Geoemydidae,Batagur,Batagur_dhongoka,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Geoemydidae,Batagur,Batagur_kachuga,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Geoemydidae,Batagur,Batagur_trivittata,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Cheloniidae,Caretta,Caretta_caretta,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Carettochelyidae,Carettochelys,Carettochelys_insculpta,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Testudinidae,Centrochelys,Centrochelys_sulcata,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Chelidae,Chelodina,Chelodina_burrungandjii,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Chelidae,Chelodina,Chelodina_canni,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Chelidae,Chelodina,Chelodina_colliei,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Chelidae,Chelodina,Chelodina_expansa,NA,GSD,1,XY,1,"Mazzoleni, S., Augstenová, B., Clemente, L., Auer, M., Fritz, U., Praschag, P., Protiva, T., Velenský, P., Kratochvíl, L., & Rovatsos, M. (2020). Sex is determined by XX/XY sex chromosomes in Australasian side-necked turtles (Testudines: Chelidae). Scientific Reports, 10(1), 4276.",NA,NA,NA
-Testudines,Chelidae,Chelodina,Chelodina_gunaleni,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Chelidae,Chelodina,Chelodina_kuchlingi,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Chelidae,Chelodina,Chelodina_longicollis,NA,GSD,1,XY,1,Database.csv,"Ezaz, T., Valenzuela, N., Grützner, F., Miura, I., Georges, A., Burke, R. L., & Graves, J. A. M. (2006). An XX/XY sex microchromosome system in a freshwater turtle, Chelodina longicollis (Testudines: Chelidae) with genetic sex determination. Chromosome Research, 14(2), 139-150.",NA,NA
-Testudines,Chelidae,Chelodina,Chelodina_mccordi,"mccordi, roteensis, timorensis",GSD,1,XY,1,"Mazzoleni, S., Augstenová, B., Clemente, L., Auer, M., Fritz, U., Praschag, P., Protiva, T., Velenský, P., Kratochvíl, L., & Rovatsos, M. (2020). Sex is determined by XX/XY sex chromosomes in Australasian side-necked turtles (Testudines: Chelidae). Scientific Reports, 10(1), 4276.",NA,NA,NA
-Testudines,Chelidae,Chelodina,Chelodina_novaeguineae,NA,GSD,1,XY,1,"Mazzoleni, S., Augstenová, B., Clemente, L., Auer, M., Fritz, U., Praschag, P., Protiva, T., Velenský, P., Kratochvíl, L., & Rovatsos, M. (2020). Sex is determined by XX/XY sex chromosomes in Australasian side-necked turtles (Testudines: Chelidae). Scientific Reports, 10(1), 4276.",NA,NA,NA
-Testudines,Chelidae,Chelodina,Chelodina_oblonga,NA,GSD,1,XY,1,"Mazzoleni, S., Augstenová, B., Clemente, L., Auer, M., Fritz, U., Praschag, P., Protiva, T., Velenský, P., Kratochvíl, L., & Rovatsos, M. (2020). Sex is determined by XX/XY sex chromosomes in Australasian side-necked turtles (Testudines: Chelidae). Scientific Reports, 10(1), 4276.",NA,NA,NA
-Testudines,Chelidae,Chelodina,Chelodina_parkeri,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Chelidae,Chelodina,Chelodina_pritchardi,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Chelidae,Chelodina,Chelodina_reimanni,NA,GSD,1,XY,1,"Mazzoleni, S., Augstenová, B., Clemente, L., Auer, M., Fritz, U., Praschag, P., Protiva, T., Velenský, P., Kratochvíl, L., & Rovatsos, M. (2020). Sex is determined by XX/XY sex chromosomes in Australasian side-necked turtles (Testudines: Chelidae). Scientific Reports, 10(1), 4276.",NA,NA,NA
-Testudines,Chelidae,Chelodina,Chelodina_steindachneri,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Chelidae,Chelodina,Chelodina_walloyarrina,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Cheloniidae,Chelonia,Chelonia_mydas,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Testudinidae,Chelonoidis,Chelonoidis_abingdonii,NA,NA,NA,NA,NA,NA,NA,NA,Extinct
-Testudines,Testudinidae,Chelonoidis,Chelonoidis_becki,NA,TSD,1,NA,NA,"Sancho, A.C. (1988). Influencia de la temperatura de incubación en el sexo y parámetros para el reconocimiento del sexo en la tortuga gigante de Galápagos (Geochelone elephantopus) e histología de la gónada iguana terrestre (Conolophus subcristatus) (Undergraduate thesis, Pontificia Universidad Católica del Ecuador, Quito).",NA,NA,"No access, but referenced in Sancho, A., Gutzke, W. H. N., Snell, H. L., Rea, S., Wilson, M., & Burke, R. L. (2017). Temperature sex determination, incubation duration, and hatchling sexual dimorphism in the Española Giant Tortoise (Chelonoidis hoodensis) of the Galápagos Islands. Amphibian & Reptile Conservation, 11(2) [General Section], 44-50 (e146).; SDM classification for extant members of Chelonoidis niger species complex based on classification of ""Geochelone elephantopus"" in Janzen, F. J., & Paukstis, G. L. (1991). Environmental sex determination in reptiles: Ecology, evolution, and experimental design. Quarterly Review of Biology, 66(2), 149-179."
-Testudines,Testudinidae,Chelonoidis,Chelonoidis_carbonarius,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Testudinidae,Chelonoidis,Chelonoidis_chathamensis,NA,TSD,1,NA,NA,"Sancho, A.C. (1988). Influencia de la temperatura de incubación en el sexo y parámetros para el reconocimiento del sexo en la tortuga gigante de Galápagos (Geochelone elephantopus) e histología de la gónada iguana terrestre (Conolophus subcristatus) (Undergraduate thesis, Pontificia Universidad Católica del Ecuador, Quito).",NA,NA,"No access, but referenced in Sancho, A., Gutzke, W. H. N., Snell, H. L., Rea, S., Wilson, M., & Burke, R. L. (2017). Temperature sex determination, incubation duration, and hatchling sexual dimorphism in the Española Giant Tortoise (Chelonoidis hoodensis) of the Galápagos Islands. Amphibian & Reptile Conservation, 11(2) [General Section], 44-50 (e146).; SDM classification for extant members of Chelonoidis niger species complex based on classification of ""Geochelone elephantopus"" in Janzen, F. J., & Paukstis, G. L. (1991). Environmental sex determination in reptiles: Ecology, evolution, and experimental design. Quarterly Review of Biology, 66(2), 149-179."
-Testudines,Testudinidae,Chelonoidis,Chelonoidis_chilensis,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Testudinidae,Chelonoidis,Chelonoidis_darwini,NA,TSD,1,NA,NA,"Sancho, A.C. (1988). Influencia de la temperatura de incubación en el sexo y parámetros para el reconocimiento del sexo en la tortuga gigante de Galápagos (Geochelone elephantopus) e histología de la gónada iguana terrestre (Conolophus subcristatus) (Undergraduate thesis, Pontificia Universidad Católica del Ecuador, Quito).",NA,NA,"No access, but referenced in Sancho, A., Gutzke, W. H. N., Snell, H. L., Rea, S., Wilson, M., & Burke, R. L. (2017). Temperature sex determination, incubation duration, and hatchling sexual dimorphism in the Española Giant Tortoise (Chelonoidis hoodensis) of the Galápagos Islands. Amphibian & Reptile Conservation, 11(2) [General Section], 44-50 (e146).; SDM classification for extant members of Chelonoidis niger species complex based on classification of ""Geochelone elephantopus"" in Janzen, F. J., & Paukstis, G. L. (1991). Environmental sex determination in reptiles: Ecology, evolution, and experimental design. Quarterly Review of Biology, 66(2), 149-179."
-Testudines,Testudinidae,Chelonoidis,Chelonoidis_denticulatus,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Testudinidae,Chelonoidis,Chelonoidis_donfaustoi,NA,TSD,1,NA,NA,"Sancho, A.C. (1988). Influencia de la temperatura de incubación en el sexo y parámetros para el reconocimiento del sexo en la tortuga gigante de Galápagos (Geochelone elephantopus) e histología de la gónada iguana terrestre (Conolophus subcristatus) (Undergraduate thesis, Pontificia Universidad Católica del Ecuador, Quito).",NA,NA,"No access, but referenced in Sancho, A., Gutzke, W. H. N., Snell, H. L., Rea, S., Wilson, M., & Burke, R. L. (2017). Temperature sex determination, incubation duration, and hatchling sexual dimorphism in the Española Giant Tortoise (Chelonoidis hoodensis) of the Galápagos Islands. Amphibian & Reptile Conservation, 11(2) [General Section], 44-50 (e146).; SDM classification for extant members of Chelonoidis niger species complex based on classification of ""Geochelone elephantopus"" in Janzen, F. J., & Paukstis, G. L. (1991). Environmental sex determination in reptiles: Ecology, evolution, and experimental design. Quarterly Review of Biology, 66(2), 149-179."
-Testudines,Testudinidae,Chelonoidis,Chelonoidis_duncanensis,NA,TSD,1,NA,NA,"Sancho, A.C. (1988). Influencia de la temperatura de incubación en el sexo y parámetros para el reconocimiento del sexo en la tortuga gigante de Galápagos (Geochelone elephantopus) e histología de la gónada iguana terrestre (Conolophus subcristatus) (Undergraduate thesis, Pontificia Universidad Católica del Ecuador, Quito).",NA,NA,"No access, but referenced in Sancho, A., Gutzke, W. H. N., Snell, H. L., Rea, S., Wilson, M., & Burke, R. L. (2017). Temperature sex determination, incubation duration, and hatchling sexual dimorphism in the Española Giant Tortoise (Chelonoidis hoodensis) of the Galápagos Islands. Amphibian & Reptile Conservation, 11(2) [General Section], 44-50 (e146).; SDM classification for extant members of Chelonoidis niger species complex based on classification of ""Geochelone elephantopus"" in Janzen, F. J., & Paukstis, G. L. (1991). Environmental sex determination in reptiles: Ecology, evolution, and experimental design. Quarterly Review of Biology, 66(2), 149-179."
-Testudines,Testudinidae,Chelonoidis,Chelonoidis_guntheri,NA,TSD,1,NA,NA,"Sancho, A.C. (1988). Influencia de la temperatura de incubación en el sexo y parámetros para el reconocimiento del sexo en la tortuga gigante de Galápagos (Geochelone elephantopus) e histología de la gónada iguana terrestre (Conolophus subcristatus) (Undergraduate thesis, Pontificia Universidad Católica del Ecuador, Quito).",NA,NA,"No access, but referenced in Sancho, A., Gutzke, W. H. N., Snell, H. L., Rea, S., Wilson, M., & Burke, R. L. (2017). Temperature sex determination, incubation duration, and hatchling sexual dimorphism in the Española Giant Tortoise (Chelonoidis hoodensis) of the Galápagos Islands. Amphibian & Reptile Conservation, 11(2) [General Section], 44-50 (e146).; SDM classification for extant members of Chelonoidis niger species complex based on classification of ""Geochelone elephantopus"" in Janzen, F. J., & Paukstis, G. L. (1991). Environmental sex determination in reptiles: Ecology, evolution, and experimental design. Quarterly Review of Biology, 66(2), 149-179."
-Testudines,Testudinidae,Chelonoidis,Chelonoidis_hoodensis,NA,TSD,1,Ia,1,Database.csv,"Sancho, A.C. (1988). Influencia de la temperatura de incubación en el sexo y parámetros para el reconocimiento del sexo en la tortuga gigante de Galápagos (Geochelone elephantopus) e histología de la gónada iguana terrestre (Conolophus subcristatus) (Undergraduate thesis, Pontificia Universidad Católica del Ecuador, Quito).",NA,"No access to source 2, but referenced in Sancho, A., Gutzke, W. H. N., Snell, H. L., Rea, S., Wilson, M., & Burke, R. L. (2017). Temperature sex determination, incubation duration, and hatchling sexual dimorphism in the Española Giant Tortoise (Chelonoidis hoodensis) of the Galápagos Islands. Amphibian & Reptile Conservation, 11(2) [General Section], 44-50 (e146)."
-Testudines,Testudinidae,Chelonoidis,Chelonoidis_microphyes,NA,TSD,1,NA,NA,"Sancho, A.C. (1988). Influencia de la temperatura de incubación en el sexo y parámetros para el reconocimiento del sexo en la tortuga gigante de Galápagos (Geochelone elephantopus) e histología de la gónada iguana terrestre (Conolophus subcristatus) (Undergraduate thesis, Pontificia Universidad Católica del Ecuador, Quito).",NA,NA,"No access, but referenced in Sancho, A., Gutzke, W. H. N., Snell, H. L., Rea, S., Wilson, M., & Burke, R. L. (2017). Temperature sex determination, incubation duration, and hatchling sexual dimorphism in the Española Giant Tortoise (Chelonoidis hoodensis) of the Galápagos Islands. Amphibian & Reptile Conservation, 11(2) [General Section], 44-50 (e146).; SDM classification for extant members of Chelonoidis niger species complex based on classification of ""Geochelone elephantopus"" in Janzen, F. J., & Paukstis, G. L. (1991). Environmental sex determination in reptiles: Ecology, evolution, and experimental design. Quarterly Review of Biology, 66(2), 149-179."
-Testudines,Testudinidae,Chelonoidis,Chelonoidis_niger,NA,NA,NA,NA,NA,NA,NA,NA,Extinct
-Testudines,Testudinidae,Chelonoidis,Chelonoidis_phantasticus,NA,TSD,1,NA,NA,"Sancho, A.C. (1988). Influencia de la temperatura de incubación en el sexo y parámetros para el reconocimiento del sexo en la tortuga gigante de Galápagos (Geochelone elephantopus) e histología de la gónada iguana terrestre (Conolophus subcristatus) (Undergraduate thesis, Pontificia Universidad Católica del Ecuador, Quito).",NA,NA,"No access, but referenced in Sancho, A., Gutzke, W. H. N., Snell, H. L., Rea, S., Wilson, M., & Burke, R. L. (2017). Temperature sex determination, incubation duration, and hatchling sexual dimorphism in the Española Giant Tortoise (Chelonoidis hoodensis) of the Galápagos Islands. Amphibian & Reptile Conservation, 11(2) [General Section], 44-50 (e146).; SDM classification for extant members of Chelonoidis niger species complex based on classification of ""Geochelone elephantopus"" in Janzen, F. J., & Paukstis, G. L. (1991). Environmental sex determination in reptiles: Ecology, evolution, and experimental design. Quarterly Review of Biology, 66(2), 149-179."
-Testudines,Testudinidae,Chelonoidis,Chelonoidis_porteri,NA,TSD,1,NA,NA,"Sancho, A.C. (1988). Influencia de la temperatura de incubación en el sexo y parámetros para el reconocimiento del sexo en la tortuga gigante de Galápagos (Geochelone elephantopus) e histología de la gónada iguana terrestre (Conolophus subcristatus) (Undergraduate thesis, Pontificia Universidad Católica del Ecuador, Quito).",NA,NA,"No access, but referenced in Sancho, A., Gutzke, W. H. N., Snell, H. L., Rea, S., Wilson, M., & Burke, R. L. (2017). Temperature sex determination, incubation duration, and hatchling sexual dimorphism in the Española Giant Tortoise (Chelonoidis hoodensis) of the Galápagos Islands. Amphibian & Reptile Conservation, 11(2) [General Section], 44-50 (e146).; SDM classification for extant members of Chelonoidis niger species complex based on classification of ""Geochelone elephantopus"" in Janzen, F. J., & Paukstis, G. L. (1991). Environmental sex determination in reptiles: Ecology, evolution, and experimental design. Quarterly Review of Biology, 66(2), 149-179."
-Testudines,Testudinidae,Chelonoidis,Chelonoidis_vandenburghi,NA,TSD,1,NA,NA,"Sancho, A.C. (1988). Influencia de la temperatura de incubación en el sexo y parámetros para el reconocimiento del sexo en la tortuga gigante de Galápagos (Geochelone elephantopus) e histología de la gónada iguana terrestre (Conolophus subcristatus) (Undergraduate thesis, Pontificia Universidad Católica del Ecuador, Quito).",NA,NA,"No access, but referenced in Sancho, A., Gutzke, W. H. N., Snell, H. L., Rea, S., Wilson, M., & Burke, R. L. (2017). Temperature sex determination, incubation duration, and hatchling sexual dimorphism in the Española Giant Tortoise (Chelonoidis hoodensis) of the Galápagos Islands. Amphibian & Reptile Conservation, 11(2) [General Section], 44-50 (e146).; SDM classification for extant members of Chelonoidis niger species complex based on classification of ""Geochelone elephantopus"" in Janzen, F. J., & Paukstis, G. L. (1991). Environmental sex determination in reptiles: Ecology, evolution, and experimental design. Quarterly Review of Biology, 66(2), 149-179."
-Testudines,Testudinidae,Chelonoidis,Chelonoidis_vicina,NA,TSD,1,NA,NA,"Sancho, A.C. (1988). Influencia de la temperatura de incubación en el sexo y parámetros para el reconocimiento del sexo en la tortuga gigante de Galápagos (Geochelone elephantopus) e histología de la gónada iguana terrestre (Conolophus subcristatus) (Undergraduate thesis, Pontificia Universidad Católica del Ecuador, Quito).",NA,NA,"No access, but referenced in Sancho, A., Gutzke, W. H. N., Snell, H. L., Rea, S., Wilson, M., & Burke, R. L. (2017). Temperature sex determination, incubation duration, and hatchling sexual dimorphism in the Española Giant Tortoise (Chelonoidis hoodensis) of the Galápagos Islands. Amphibian & Reptile Conservation, 11(2) [General Section], 44-50 (e146).; SDM classification for extant members of Chelonoidis niger species complex based on classification of ""Geochelone elephantopus"" in Janzen, F. J., & Paukstis, G. L. (1991). Environmental sex determination in reptiles: Ecology, evolution, and experimental design. Quarterly Review of Biology, 66(2), 149-179."
-Testudines,Chelidae,Chelus,Chelus_fimbriata,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Chelydridae,Chelydra,Chelydra_acutirostris,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Chelydridae,Chelydra,Chelydra_rossignonii,NA,TSD,1,Ia,1,Database.csv,NA,NA,"Data supports Ia, but other chelydrids suggest it could be II"
-Testudines,Chelydridae,Chelydra,Chelydra_serpentina,NA,TSD,1,II,1,Database.csv,NA,NA,NA
-Testudines,Testudinidae,Chersina,Chersina_angulata,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Testudinidae,Chersobius,Chersobius_boulengeri,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Testudinidae,Chersobius,Chersobius_signatus,NA,TSD,1,NA,NA,Database.csv,NA,NA,Species studbooks (accessed from http://home.caiway.nl/~loehr/publications/stdplanhsig.pdf) indicate species has TSD but without data; classification confident based on expert claims and other testudinids
-Testudines,Testudinidae,Chersobius,Chersobius_solus,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Trionychidae,Chitra,Chitra_chitra,"chitra, javanensis",TSD,0,NA,NA,Database.csv,NA,NA,Classification not confident based on other trionychids and sexing methods (only sexed dead juveniles)
-Testudines,Trionychidae,Chitra,Chitra_indica,NA,GSD,1,ZW,1,"Rovatsos, M., Praschag, P., Fritz, U., & Kratochvíl, L. (2017). Stable Cretaceous sex chromosomes enable molecular sexing in softshell turtles (Testudines: Trionychidae). Scientific Reports, 7(1), 42150.",NA,NA,NA
-Testudines,Trionychidae,Chitra,Chitra_vandijki,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Emydidae,Chrysemys,Chrysemys_dorsalis,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Emydidae,Chrysemys,Chrysemys_picta,"picta, bellii, marginata",TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Kinosternidae,Claudius,Claudius_angustatus,NA,GSD,1,NA,NA,Database.csv,NA,NA,NA
-Testudines,Emydidae,Clemmys,Clemmys_guttata,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Geoemydidae,Cuora,Cuora_amboinensis,"amboinensis, cuoro, kamaroma, lineata",NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Geoemydidae,Cuora,Cuora_aurocapitata,"aurocapitata, dabieshani",NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Geoemydidae,Cuora,Cuora_bourreti,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Geoemydidae,Cuora,Cuora_cyclornata,"cyclornata, annamitica, meieri",NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Geoemydidae,Cuora,Cuora_flavomarginata,"flavomarginata, evelynae",TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Geoemydidae,Cuora,Cuora_galbinifrons,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Geoemydidae,Cuora,Cuora_mccordi,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Geoemydidae,Cuora,Cuora_mouhotii,"mouhotii, obsti",NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Geoemydidae,Cuora,Cuora_pani,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Geoemydidae,Cuora,Cuora_picturata,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Geoemydidae,Cuora,Cuora_trifasciata,"trifasciata, luteocephala",TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Geoemydidae,Cuora,Cuora_yunnanensis,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Geoemydidae,Cuora,Cuora_zhoui,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Trionychidae,Cyclanorbis,Cyclanorbis_elegans,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Trionychidae,Cyclanorbis,Cyclanorbis_senegalensis,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Geoemydidae,Cyclemys,Cyclemys_atripons,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Geoemydidae,Cyclemys,Cyclemys_dentata,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Geoemydidae,Cyclemys,Cyclemys_enigmatica,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Geoemydidae,Cyclemys,Cyclemys_fusca,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Geoemydidae,Cyclemys,Cyclemys_gemeli,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Geoemydidae,Cyclemys,Cyclemys_oldhamii,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Geoemydidae,Cyclemys,Cyclemys_pulchristriata,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Trionychidae,Cycloderma,Cycloderma_aubryi,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Trionychidae,Cycloderma,Cycloderma_frenatum,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Testudinidae,Cylindraspis,Cylindraspis_indica,NA,NA,NA,NA,NA,NA,NA,NA,Extinct
-Testudines,Testudinidae,Cylindraspis,Cylindraspis_inepta,NA,NA,NA,NA,NA,NA,NA,NA,Extinct
-Testudines,Testudinidae,Cylindraspis,Cylindraspis_peltastes,NA,NA,NA,NA,NA,NA,NA,NA,Extinct
-Testudines,Testudinidae,Cylindraspis,Cylindraspis_triserrata,NA,NA,NA,NA,NA,NA,NA,NA,Extinct
-Testudines,Testudinidae,Cylindraspis,Cylindraspis_vosmaeri,NA,NA,NA,NA,NA,NA,NA,NA,Extinct
-Testudines,Emydidae,Deirochelys,Deirochelys_reticularia,"reticularia, chrysea, miaria",TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Dermatemydidae,Dermatemys,Dermatemys_mawii,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Dermochelyidae,Dermochelys,Dermochelys_coriacea,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Trionychidae,Dogania,Dogania_subplana,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Chelidae,Elseya,Elseya_albagula,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Chelidae,Elseya,Elseya_branderhorsti,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Chelidae,Elseya,Elseya_dentata,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Chelidae,Elseya,Elseya_flaviventralis,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Chelidae,Elseya,Elseya_irwini,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Chelidae,Elseya,Elseya_lavarackorum,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Chelidae,Elseya,Elseya_novaeguineae,NA,GSD,1,XY,1,Database.csv,"Mazzoleni, S., Augstenová, B., Clemente, L., Auer, M., Fritz, U., Praschag, P., Protiva, T., Velenský, P., Kratochvíl, L., & Rovatsos, M. (2020). Sex is determined by XX/XY sex chromosomes in Australasian side-necked turtles (Testudines: Chelidae). Scientific Reports, 10(1), 4276.",NA,NA
-Testudines,Chelidae,Elseya,Elseya_rhodini,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Chelidae,Elseya,Elseya_schultzei,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Chelidae,Elusor,Elusor_macrurus,NA,GSD,1,NA,NA,Database.csv,NA,NA,NA
-Testudines,Chelidae,Emydura,Emydura_macquarii,"macquarii, emmotti, krefftii, nigra",GSD,1,XY,1,Database.csv,"Martinez, P. A., Ezaz, T., Valenzuela, N., Georges, A., & Graves, J. A. M. (2008). An XX/XY heteromorphic sex chromosome system in the Australian chelid turtle Emydura macquarii: A new piece in the puzzle of sex chromosome evolution in turtles. Chromosome Research, 16(6), 815-825.",NA,NA
-Testudines,Chelidae,Emydura,Emydura_subglobosa,"subglobosa, worrelli",GSD,1,XY,1,Database.csv,"Lee, L., Montiel, E. E., & Valenzuela, N. (2019). Discovery of putative XX/XY male heterogamety in Emydura subglobosa turtles exposes a novel trajectory of sex chromosome evolution in Emydura. Cytogenetic and Genome Research, 158(3), 160-169.",NA,NA
-Testudines,Chelidae,Emydura,Emydura_tanybaraga,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Chelidae,Emydura,Emydura_victoriae,NA,GSD,1,NA,NA,Database.csv,NA,NA,4M:6F from one nest; classification confident based on other chelids
-Testudines,Emydidae,Emys,Emys_blandingii,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Emydidae,Emys,Emys_marmorata,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Emydidae,Emys,Emys_orbicularis,"orbicularis, eiselti, galloitalica, hellenica, inguana, occidentalis, persica",TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Emydidae,Emys,Emys_pallida,NA,TSD,0,NA,NA,Chelonian TAG Steering Committee (Ed.) (2015). AZA Chelonian Advisory Group Regional Collection Plan. Retrieved from https://ams.aza.org/iweb/upload/DRAFT30DayReview_ChelonianTAGRCP2016-28f42a54.pdf,NA,NA,No data or reference supporting SDM classification
-Testudines,Emydidae,Emys,Emys_trinacris,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Cheloniidae,Eretmochelys,Eretmochelys_imbricata,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Podocnemididae,Erymnochelys,Erymnochelys_madagascariensis,NA,TSD,1,NA,NA,Database.csv,NA,NA,NA
-Testudines,Testudinidae,Geochelone,Geochelone_elegans,NA,TSD,1,Ia,1,"Fife, J. D. (2007). Star tortoises: The natural history, captive care, and breeding of Geochelone elegans and Geochelone platynota. Turtles of the World Series: Testudinidae: No. 10.",NA,NA,No access; classification confident based on data referenced at https://startortoises.net/incubation.html
-Testudines,Testudinidae,Geochelone,Geochelone_platynota,NA,TSD,1,Ia,1,Database.csv,"Fife, J. D. (2007). Star tortoises: The natural history, captive care, and breeding of Geochelone elegans and Geochelone platynota. Turtles of the World Series: Testudinidae: No. 10.",NA,No access to source 2
-Testudines,Geoemydidae,Geoclemys,Geoclemys_hamiltonii,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Geoemydidae,Geoemyda,Geoemyda_japonica,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Geoemydidae,Geoemyda,Geoemyda_spengleri,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Emydidae,Glyptemys,Glyptemys_insculpta,NA,GSD,1,XY,1,Database.csv,"Montiel, E. E., Badenhorst, D., Tamplin, J., Burke, R. L., & Valenzuela, N. (2017). Discovery of the youngest sex chromosomes reveals first case of convergent co-option of ancestral autosomes in turtles. Chromosoma, 126(1), 105-113.",NA,NA
-Testudines,Emydidae,Glyptemys,Glyptemys_muhlenbergii,NA,GSD,1,XY,1,Database.csv,"Literman, R., Radhakrishnan, S., Tamplin, J., Burke, R., Dresser, C., & Valenzuela, N. (2017). Development of sexing primers in Glyptemys insculpta and Apalone spinifera turtles uncovers an XX/XY sex-determining system in the critically-endangered bog turtle Glyptemys muhlenbergii. Conservation Genetics Resources, 9(4), 651-658.",NA,NA
-Testudines,Testudinidae,Gopherus,Gopherus_agassizii,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Testudinidae,Gopherus,Gopherus_berlandieri,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Testudinidae,Gopherus,Gopherus_evgoodei,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Testudinidae,Gopherus,Gopherus_flavomarginatus,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Testudinidae,Gopherus,Gopherus_morafkai,NA,TSD,0,NA,NA,"Ennen, J. R., Lovich, J. E., Averill-Murray, R. C., Yackulic, C. B., Agha, M., Loughran, C., Tennant, L. & Sinervo, B. (2017). The evolution of different maternal investment strategies in two closely related desert vertebrates. Ecology and Evolution, 7(9), 3177-3189.",NA,NA,Reference study working on Gopherus agassizii
-Testudines,Testudinidae,Gopherus,Gopherus_polyphemus,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Emydidae,Graptemys,Graptemys_barbouri,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Emydidae,Graptemys,Graptemys_caglei,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Emydidae,Graptemys,Graptemys_ernsti,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Emydidae,Graptemys,Graptemys_flavimaculata,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Emydidae,Graptemys,Graptemys_geographica,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Emydidae,Graptemys,Graptemys_gibbonsi,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Emydidae,Graptemys,Graptemys_nigrinoda,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Emydidae,Graptemys,Graptemys_oculifera,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Emydidae,Graptemys,Graptemys_ouachitensis,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Emydidae,Graptemys,Graptemys_pearlensis,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Emydidae,Graptemys,Graptemys_pseudogeographica,"pseudogeographica, kohnii",TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Emydidae,Graptemys,Graptemys_pulchra,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Emydidae,Graptemys,Graptemys_sabinensis,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Emydidae,Graptemys,Graptemys_versa,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Geoemydidae,Hardella,Hardella_thurjii,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Geoemydidae,Heosemys,Heosemys_annandalii,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Geoemydidae,Heosemys,Heosemys_depressa,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Geoemydidae,Heosemys,Heosemys_grandis,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Geoemydidae,Heosemys,Heosemys_spinosa,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Testudinidae,Homopus,Homopus_areolatus,NA,TSD,1,NA,NA,"Loehr, V. (2016). Homopus Research Foundation Annual Report 2015. Retrieved from https://www.studbooks.eu/site/assets/files/1644/annual_report_2015_homopus_research_foundation.pdf",NA,NA,No data or reference supporting SDM classification; classification confident based on expert claims and other testudinids
-Testudines,Testudinidae,Homopus,Homopus_femoralis,NA,TSD,1,NA,NA,"Loehr, V. (2017). Homopus Research Foundation Annual Report 2016. Retrieved from https://studbooks.eu/site/assets/files/1646/annual_report_homopus_research_foundation_2016.pdf",NA,NA,No data or reference supporting SDM classification; classification confident based on expert claims and other testudinids
-Testudines,Chelidae,Hydromedusa,Hydromedusa_maximiliani,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Chelidae,Hydromedusa,Hydromedusa_tectifera,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Testudinidae,Indotestudo,Indotestudo_elongata,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Testudinidae,Indotestudo,Indotestudo_forstenii,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Testudinidae,Indotestudo,Indotestudo_travancorica,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Testudinidae,Kinixys,Kinixys_belliana,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Testudinidae,Kinixys,Kinixys_erosa,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Testudinidae,Kinixys,Kinixys_homeana,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Testudinidae,Kinixys,Kinixys_lobatsiana,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Testudinidae,Kinixys,Kinixys_natalensis,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Testudinidae,Kinixys,Kinixys_nogueyi,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Testudinidae,Kinixys,Kinixys_spekii,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Testudinidae,Kinixys,Kinixys_zombensis,"zombensis, domerguei",NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Kinosternidae,Kinosternon,Kinosternon_abaxillare,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Kinosternidae,Kinosternon,Kinosternon_acutum,NA,TSD,1,NA,NA,"Vogt, R. C. (1989). Effects of incubation temperature on sex determination in a neotropical freshwater turtle community in southern Mexico. In T. Halliday, J. Baker, & L. Hosie (Eds.), First World Congress of Herpetology, 11-19 September 1989 (Abstr.). University of Kent, Canterbury.",NA,NA,"No access, but referenced in previous SDM summaries"
-Testudines,Kinosternidae,Kinosternon,Kinosternon_alamosae,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Kinosternidae,Kinosternon,Kinosternon_angustipons,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Kinosternidae,Kinosternon,Kinosternon_baurii,NA,TSD,1,"Ia, II",1,Database.csv,NA,NA,"One population appears Ia, another population appears II"
-Testudines,Kinosternidae,Kinosternon,Kinosternon_chimalhuaca,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Kinosternidae,Kinosternon,Kinosternon_creaseri,NA,TSD,1,II,1,Database.csv,NA,NA,NA
-Testudines,Kinosternidae,Kinosternon,Kinosternon_dunni,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Kinosternidae,Kinosternon,Kinosternon_durangoense,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Kinosternidae,Kinosternon,Kinosternon_flavescens,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Kinosternidae,Kinosternon,Kinosternon_herrerai,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Kinosternidae,Kinosternon,Kinosternon_hirtipes,"hirtipes, chapalaense, magdalense, murrayi, tarascense",TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Kinosternidae,Kinosternon,Kinosternon_integrum,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Kinosternidae,Kinosternon,Kinosternon_leucostomum,"leucostomum, postinguinale",TSD,1,II,1,Database.csv,NA,NA,NA
-Testudines,Kinosternidae,Kinosternon,Kinosternon_oaxacae,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Kinosternidae,Kinosternon,Kinosternon_scorpioides,"scorpioides, albogulare, cruentatum",TSD,1,II,1,Database.csv,NA,NA,NA
-Testudines,Kinosternidae,Kinosternon,Kinosternon_sonoriense,"sonoriense, longifemorale",TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Kinosternidae,Kinosternon,Kinosternon_steindachneri,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Kinosternidae,Kinosternon,Kinosternon_stejnegeri,NA,TSD,1,II,1,Database.csv,NA,NA,NA
-Testudines,Kinosternidae,Kinosternon,Kinosternon_subrubrum,"subrubrum, hippocrepis",TSD,1,"Ia, II",1,Database.csv,NA,NA,"Kinosternon subrubrum subrubrum appears Ia, K. s. hippocrepis appears II"
-Testudines,Cheloniidae,Lepidochelys,Lepidochelys_kempii,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Cheloniidae,Lepidochelys,Lepidochelys_olivacea,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Geoemydidae,Leucocephalon,Leucocephalon_yuwonoi,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Trionychidae,Lissemys,Lissemys_ceylonensis,NA,GSD,1,ZW,1,"Rovatsos, M., Praschag, P., Fritz, U., & Kratochvíl, L. (2017). Stable Cretaceous sex chromosomes enable molecular sexing in softshell turtles (Testudines: Trionychidae). Scientific Reports, 7(1), 42150.",NA,NA,NA
-Testudines,Trionychidae,Lissemys,Lissemys_punctata,"punctata, andersoni, vittata",GSD,1,ZW,1,"Rovatsos, M., Praschag, P., Fritz, U., & Kratochvíl, L. (2017). Stable Cretaceous sex chromosomes enable molecular sexing in softshell turtles (Testudines: Trionychidae). Scientific Reports, 7(1), 42150.",NA,NA,NA
-Testudines,Trionychidae,Lissemys,Lissemys_scutata,NA,GSD,1,ZW,1,"Rovatsos, M., Praschag, P., Fritz, U., & Kratochvíl, L. (2017). Stable Cretaceous sex chromosomes enable molecular sexing in softshell turtles (Testudines: Trionychidae). Scientific Reports, 7(1), 42150.",NA,NA,NA
-Testudines,Chelydridae,Macrochelys,Macrochelys_suwanniensis,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Chelydridae,Macrochelys,Macrochelys_temminckii,NA,TSD,1,II,1,Database.csv,NA,NA,NA
-Testudines,Emydidae,Malaclemys,Malaclemys_terrapin,"terrapin, centrata, littoralis, macrospilota, pileata, rhizophorarum, tequesta",TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Testudinidae,Malacochersus,Malacochersus_tornieri,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Geoemydidae,Malayemys,Malayemys_khoratensis,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Geoemydidae,Malayemys,Malayemys_macrocephala,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Geoemydidae,Malayemys,Malayemys_subtrijuga,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Testudinidae,Manouria,Manouria_emys,"emys, phayrei",TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Testudinidae,Manouria,Manouria_impressa,NA,TSD,1,NA,NA,Database.csv,NA,NA,NA
-Testudines,Geoemydidae,Mauremys,Mauremys_annamensis,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Geoemydidae,Mauremys,Mauremys_caspica,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Geoemydidae,Mauremys,Mauremys_japonica,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Geoemydidae,Mauremys,Mauremys_leprosa,"leprosa, saharica",NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Geoemydidae,Mauremys,Mauremys_mutica,"mutica, kami",TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Geoemydidae,Mauremys,Mauremys_nigricans,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Geoemydidae,Mauremys,Mauremys_reevesii,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Geoemydidae,Mauremys,Mauremys_rivulata,NA,TSD,0,NA,NA,"Güçlü, Ö., & Türkozan, O. (2010). Population structure of Mauremys rivulata in western Turkey. Turkish Journal of Zoology, 34(3), 385-391.",NA,NA,No data supporting SDM classification
-Testudines,Geoemydidae,Mauremys,Mauremys_sinensis,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Geoemydidae,Melanochelys,Melanochelys_tricarinata,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Geoemydidae,Melanochelys,Melanochelys_trijuga,"trijuga, coronata, edeniana, indopeninsularis, parkeri, thermalis",TSD,1,II,1,Database.csv,NA,NA,NA
-Testudines,Chelidae,Mesoclemmys,Mesoclemmys_dahli,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Chelidae,Mesoclemmys,Mesoclemmys_gibba,NA,GSD,1,NA,NA,Database.csv,NA,NA,"Additional data potentially in Pieau, C., & Dorizzi, M. (2004). Temperaturabhängige Geschlechtsfixierung bei Sumpf- Wasser- und Landschildkröten Teil 1. Marginata, 1(4), 35-43."
-Testudines,Chelidae,Mesoclemmys,Mesoclemmys_heliostemma,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Chelidae,Mesoclemmys,Mesoclemmys_hogei,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Chelidae,Mesoclemmys,Mesoclemmys_nasuta,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Chelidae,Mesoclemmys,Mesoclemmys_perplexa,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Chelidae,Mesoclemmys,Mesoclemmys_raniceps,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Chelidae,Mesoclemmys,Mesoclemmys_tuberculata,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Chelidae,Mesoclemmys,Mesoclemmys_vanderhaegei,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Chelidae,Mesoclemmys,Mesoclemmys_zuliae,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Geoemydidae,Morenia,Morenia_ocellata,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Geoemydidae,Morenia,Morenia_petersi,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Chelidae,Myuchelys,Myuchelys_bellii,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Chelidae,Myuchelys,Myuchelys_georgesi,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Chelidae,Myuchelys,Myuchelys_latisternum,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Chelidae,Myuchelys,Myuchelys_purvisi,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Cheloniidae,Natator,Natator_depressus,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Trionychidae,Nilssonia,Nilssonia_formosa,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Trionychidae,Nilssonia,Nilssonia_gangetica,NA,GSD,1,ZW,1,"Rovatsos, M., Praschag, P., Fritz, U., & Kratochvíl, L. (2017). Stable Cretaceous sex chromosomes enable molecular sexing in softshell turtles (Testudines: Trionychidae). Scientific Reports, 7(1), 42150.",NA,NA,NA
-Testudines,Trionychidae,Nilssonia,Nilssonia_hurum,NA,GSD,1,ZW,1,"Rovatsos, M., Praschag, P., Fritz, U., & Kratochvíl, L. (2017). Stable Cretaceous sex chromosomes enable molecular sexing in softshell turtles (Testudines: Trionychidae). Scientific Reports, 7(1), 42150.",NA,NA,NA
-Testudines,Trionychidae,Nilssonia,Nilssonia_leithii,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Trionychidae,Nilssonia,Nilssonia_nigricans,NA,GSD,1,ZW,1,"Rovatsos, M., Praschag, P., Fritz, U., & Kratochvíl, L. (2017). Stable Cretaceous sex chromosomes enable molecular sexing in softshell turtles (Testudines: Trionychidae). Scientific Reports, 7(1), 42150.",NA,NA,NA
-Testudines,Geoemydidae,Notochelys,Notochelys_platynota,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Geoemydidae,Orlitia,Orlitia_borneensis,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Trionychidae,Palea,Palea_steindachneri,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Geoemydidae,Pangshura,Pangshura_smithii,"smithii, pallidipes",GSD,0,ZW,0,"Sharma, G. P., Kaur, P., & Nakhasi, U. (1975). Female heterogamety in the Indian cryptodiran chelonian, Kachuga smithii Gray. In K. K. Tiwari, & C. B. Srivistava (Eds.), Dr. B. S. Chuahah Commemoration Volume (pp. 359-368). Orissa: Zoological Society of India.","Mazzoleni, S., Augstenová, B., Clemente, L., Auer, M., Fritz, U., Praschag, P., Protiva, T., Velenský, P., Kratochvíl, L., & Rovatsos, M. (2019). Turtles of the genera Geoemyda and Pangshura (Testudines: Geoemydidae) lack differentiated sex chromosomes: The end of a 40-year error cascade for Pangshura. PeerJ, 7, e6241.",NA,Original ZZ/ZW classification overturned by source 2
-Testudines,Geoemydidae,Pangshura,Pangshura_sylhetensis,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Geoemydidae,Pangshura,Pangshura_tecta,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Geoemydidae,Pangshura,Pangshura_tentoria,"tentoria, circumdata, flaviventer",NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Trionychidae,Pelochelys,Pelochelys_bibroni,NA,GSD,0,NA,NA,"Georges, A., Guarino, F., & Bito, B. (2005). Turtles of the TransFly. Report to the Suki/Aramba Wildlife Management Committee, Serki, Western Province, Papua New Guinea by the Institute for Applied Ecology, University of Canberra. October 2005. 1-31.",NA,NA,No data or reference supporting SDM classification
-Testudines,Trionychidae,Pelochelys,Pelochelys_cantorii,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Trionychidae,Pelochelys,Pelochelys_signifera,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Trionychidae,Pelodiscus,Pelodiscus_axenaria,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Trionychidae,Pelodiscus,Pelodiscus_maackii,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Trionychidae,Pelodiscus,Pelodiscus_parviformis,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Trionychidae,Pelodiscus,Pelodiscus_sinensis,NA,GSD,1,ZW,1,Database.csv,"Badenhorst, D., Stanyon, R., Engstrom, T., & Valenzuela, N. (2013). A ZZ/ZW microchromosome system in the spiny softshell turtle, Apalone spinifera, reveals an intriguing sex chromosome conservation in Trionychidae. Chromosome Research, 21(2), 137-147.","Mu, Y., Zhao, B., Tang, W. Q., Sun, B. J., Zeng, Z. G., Valenzuela, N., & Du, W. G. (2015). Temperature-dependent sex determination ruled out in the Chinese soft-shelled turtle (Pelodiscus sinensis) via molecular cytogenetics and incubation experiments across populations. Sexual Development, 9(2), 111-117.",NA
-Testudines,Pelomedusidae,Pelomedusa,Pelomedusa_barbata,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Pelomedusidae,Pelomedusa,Pelomedusa_galeata,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Pelomedusidae,Pelomedusa,Pelomedusa_gehafie,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Pelomedusidae,Pelomedusa,Pelomedusa_kobe,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Pelomedusidae,Pelomedusa,Pelomedusa_neumanni,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Pelomedusidae,Pelomedusa,Pelomedusa_olivacea,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Pelomedusidae,Pelomedusa,Pelomedusa_schweinfurthi,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Pelomedusidae,Pelomedusa,Pelomedusa_somalica,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Pelomedusidae,Pelomedusa,Pelomedusa_subrufa,NA,TSD,1,II,1,Database.csv,NA,NA,NA
-Testudines,Pelomedusidae,Pelomedusa,Pelomedusa_variabilis,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Podocnemididae,Peltocephalus,Peltocephalus_dumerilianus,NA,TSD,1,NA,NA,Database.csv,NA,NA,NA
-Testudines,Pelomedusidae,Pelusios,Pelusios_adansonii,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Pelomedusidae,Pelusios,Pelusios_bechuanicus,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Pelomedusidae,Pelusios,Pelusios_broadleyi,NA,TSD,1,II,1,Database.csv,NA,NA,NA
-Testudines,Pelomedusidae,Pelusios,Pelusios_carinatus,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Pelomedusidae,Pelusios,Pelusios_castaneus,castaneus,TSD,1,II,1,Database.csv,NA,NA,NA
-Testudines,Pelomedusidae,Pelusios,Pelusios_castanoides,"castanoides, intergularis",NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Pelomedusidae,Pelusios,Pelusios_chapini,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Pelomedusidae,Pelusios,Pelusios_cupulatta,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Pelomedusidae,Pelusios,Pelusios_gabonensis,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Pelomedusidae,Pelusios,Pelusios_marani,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Pelomedusidae,Pelusios,Pelusios_nanus,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Pelomedusidae,Pelusios,Pelusios_niger,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Pelomedusidae,Pelusios,Pelusios_rhodesianus,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Pelomedusidae,Pelusios,Pelusios_sinuatus,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Pelomedusidae,Pelusios,Pelusios_subniger,"subniger, parietalis",GSD,0,NA,NA,"Gerlach, J. (2008). Fragmentation and demography as causes of population decline in Seychelles freshwater turtles (Genus Pelusios). Chelonian Conservation and Biology, 7(1), 78-87.",NA,NA,Reference unprovided sex ratio data; classification not confident based on other pelomedusids
-Testudines,Pelomedusidae,Pelusios,Pelusios_upembae,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Pelomedusidae,Pelusios,Pelusios_williamsi,"williamsi, laurenti, lutescens",NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Chelidae,Phrynops,Phrynops_geoffroanus,NA,GSD,1,NA,NA,Database.csv,NA,NA,NA
-Testudines,Chelidae,Phrynops,Phrynops_hilarii,NA,GSD,1,NA,NA,Database.csv,NA,NA,NA
-Testudines,Chelidae,Phrynops,Phrynops_tuberosus,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Chelidae,Phrynops,Phrynops_williamsi,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Chelidae,Platemys,Platemys_platycephala,"platycephala, melanonota",GSD,1,NA,NA,"Pieau, C., & Dorizzi, M. (2004). Temperaturabhängige Geschlechtsfixierung bei Sumpf- Wasser- und Landschildkröten Teil 1. Marginata, 1(4), 35-43.",NA,NA,"No access; classification confident based on other chelids and cited in Böhm, S. (2020). Ecology of the chelid turtles Platemys platycephala, Mesoclemmys gibba and Mesoclemmys nasuta in French Guyana. With notes on short term migrations and dietary spectrum of Platemys platycephala in the Nouragues Field Reserve, French Guyana (Master's thesis, Universität Wien, Vienna). Retrieved from http://othes.univie.ac.at/13016/1/2011-01-19_0400219.pdf"
-Testudines,Platysternidae,Platysternon,Platysternon_megacephalum,"megacephalum, peguense, shiui",NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Podocnemididae,Podocnemis,Podocnemis_erythrocephala,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Podocnemididae,Podocnemis,Podocnemis_expansa,NA,TSD,1,Ia,0,Database.csv,NA,NA,"Appears II based on two cold nests that produced females, but constant incubations appear type Ia"
-Testudines,Podocnemididae,Podocnemis,Podocnemis_lewyana,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Podocnemididae,Podocnemis,Podocnemis_sextuberculata,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Podocnemididae,Podocnemis,Podocnemis_unifilis,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Podocnemididae,Podocnemis,Podocnemis_vogli,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Testudinidae,Psammobates,Psammobates_geometricus,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Testudinidae,Psammobates,Psammobates_oculifer,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Testudinidae,Psammobates,Psammobates_tentorius,"tentorius, trimeni, verroxii",NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Chelidae,Pseudemydura,Pseudemydura_umbrina,NA,GSD,1,NA,NA,"Burbidge, A. A., & Kuchling, G. (2004). Western swamp tortoise (Pseudemydura umbrina) recovery plan. Wildlife Management Program No. 37.",NA,NA,Reference unprovided sex ratio data; classification confident based on other chelids
-Testudines,Emydidae,Pseudemys,Pseudemys_alabamensis,NA,TSD,0,Ia,0,"Girondot, M. (2010). Sex in common pet turtles. WebmedCentral Veterinary Medicine, 1(10), WMC00877.",NA,NA,No data or reference supporting SDM/Type classification
-Testudines,Emydidae,Pseudemys,Pseudemys_concinna,"concinna, suwanniensis",TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Emydidae,Pseudemys,Pseudemys_floridana,floridana,TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Emydidae,Pseudemys,Pseudemys_gorzugi,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Emydidae,Pseudemys,Pseudemys_nelsoni,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Emydidae,Pseudemys,Pseudemys_peninsularis,NA,TSD,0,Ia,0,"Girondot, M. (2010). Sex in common pet turtles. WebmedCentral Veterinary Medicine, 1(10), WMC00877.",NA,NA,No data or reference supporting SDM/Type classification
-Testudines,Emydidae,Pseudemys,Pseudemys_rubriventris,NA,TSD,0,Ia,0,"USFWS. (1994). Plymouth redbelly turtle (Pseudemys rubriventris) recovery plan: Second revision. Hadley, Massachusetts.",NA,NA,No data or reference supporting SDM/Type classification
-Testudines,Emydidae,Pseudemys,Pseudemys_texana,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Testudinidae,Pyxis,Pyxis_arachnoides,"arachnoides, brygooi, oblonga",TSD,1,NA,NA,Database.csv,NA,NA,NA
-Testudines,Testudinidae,Pyxis,Pyxis_planicauda,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Trionychidae,Rafetus,Rafetus_euphraticus,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Trionychidae,Rafetus,Rafetus_swinhoei,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Chelidae,Rheodytes,Rheodytes_leukops,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Chelidae,Rhinemys,Rhinemys_rufipes,NA,GSD,1,XY,1,"Viana, P. F., Feldberg, E., Cioffi, M. B., de Carvalho, V. T., Menezes, S., Vogt, R. C., Liehr, T., & Ezaz, T. (2020). The Amazonian red side-necked turtle Rhinemys rufipes (Spix, 1824) (Testudines, Chelidae) has a GSD sex-determining mechanism with an ancient XY sex microchromosome system. Cells, 9(9), 2088.",NA,NA,NA
-Testudines,Geoemydidae,Rhinoclemmys,Rhinoclemmys_annulata,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Geoemydidae,Rhinoclemmys,Rhinoclemmys_areolata,NA,TSD,1,II,1,Database.csv,NA,NA,NA
-Testudines,Geoemydidae,Rhinoclemmys,Rhinoclemmys_diademata,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Geoemydidae,Rhinoclemmys,Rhinoclemmys_funerea,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Geoemydidae,Rhinoclemmys,Rhinoclemmys_melanosterna,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Geoemydidae,Rhinoclemmys,Rhinoclemmys_nasuta,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Geoemydidae,Rhinoclemmys,Rhinoclemmys_pulcherrima,"pulcherrima, incisa, manni, rogerbarbouri",TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Geoemydidae,Rhinoclemmys,Rhinoclemmys_punctularia,"punctularia, flammigera",NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Geoemydidae,Rhinoclemmys,Rhinoclemmys_rubida,"rubida, perixantha",NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Geoemydidae,Sacalia,Sacalia_bealei,NA,TSD,0,NA,NA,Chelonian TAG Steering Committee (Ed.) (2015). AZA Chelonian Advisory Group Regional Collection Plan. Retrieved from https://ams.aza.org/iweb/upload/DRAFT30DayReview_ChelonianTAGRCP2016-28f42a54.pdf,NA,NA,No data or reference supporting SDM classification
-Testudines,Geoemydidae,Sacalia,Sacalia_quadriocellata,NA,TSD,0,NA,NA,Chelonian TAG Steering Committee (Ed.) (2015). AZA Chelonian Advisory Group Regional Collection Plan. Retrieved from https://ams.aza.org/iweb/upload/DRAFT30DayReview_ChelonianTAGRCP2016-28f42a54.pdf,NA,NA,No data or reference supporting SDM classification
-Testudines,Geoemydidae,Siebenrockiella,Siebenrockiella_crassicollis,NA,GSD,1,XY,1,"Carr, J. L., & Bickham, J. W. (1981). Sex chromosomes of the Asian black pond turtle, Siebenrockiella crassicollis (Testudines: Emydidae). Cytogenetics and Cell Genetics, 31(3), 178-183.",NA,NA,NA
-Testudines,Geoemydidae,Siebenrockiella,Siebenrockiella_leytensis,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Kinosternidae,Staurotypus,Staurotypus_salvinii,NA,GSD,1,XY,1,Database.csv,"Bull, J. J., Moon, R. G., & Legler, J. M. (1974). Male heterogamety in kinosternid turtles (genus Staurotypus). Cytogenetics and Cell Genetics, 13(5), 419-425.",NA,NA
-Testudines,Kinosternidae,Staurotypus,Staurotypus_triporcatus,NA,GSD,1,XY,1,Database.csv,"Bull, J. J., Moon, R. G., & Legler, J. M. (1974). Male heterogamety in kinosternid turtles (genus Staurotypus). Cytogenetics and Cell Genetics, 13(5), 419-425.",NA,NA
-Testudines,Kinosternidae,Sternotherus,Sternotherus_carinatus,NA,TSD,1,II,1,Database.csv,NA,NA,NA
-Testudines,Kinosternidae,Sternotherus,Sternotherus_depressus,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Kinosternidae,Sternotherus,Sternotherus_minor,"minor, peltifer",TSD,1,II,1,Database.csv,NA,NA,NA
-Testudines,Kinosternidae,Sternotherus,Sternotherus_odoratus,NA,TSD,1,II,1,Database.csv,NA,NA,NA
-Testudines,Testudinidae,Stigmochelys,Stigmochelys_pardalis,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Emydidae,Terrapene,Terrapene_carolina,"carolina, bauri, major, mexicana, triunguis, yucatana",TSD,1,Ia,1,Database.csv,NA,NA,T. c. baurii pattern appears almost type II
-Testudines,Emydidae,Terrapene,Terrapene_coahuila,NA,TSD,1,Ia,1,"Bauer, M., & Jasser-Häger, I. (2006). The Mexican aquatic box turtle, Terrapene coahuila Schmidt and Owens, 1944. Husbandry and breeding to the F2 generation. Radiata, 15, 40-49.",NA,NA,"No access; cited by Howeth, J. G., & Brown, W. S. (2011). Terrapene carolina Schmidt and Owens 1944 - Coahuilan box turtle. Chelonian Research Monographs, 5, 49.1-49.13."
-Testudines,Emydidae,Terrapene,Terrapene_nelsoni,"nelsoni, klauberi",NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Emydidae,Terrapene,Terrapene_ornata,"ornata, luteola",TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Testudinidae,Testudo,Testudo_graeca,"graeca, armeniaca, buxtoni, cyrenaica, ibera, marokkensis, nabeulensis, soussensis, terrestris, zarudnyi",TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Testudinidae,Testudo,Testudo_hermanni,"hermanni, boettgeri",TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Testudinidae,Testudo,Testudo_horsfieldii,"horsfieldii, bogdanovi, kazachstanica, kuznetzovi, rustamovi",NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Testudinidae,Testudo,Testudo_kleinmanni,NA,TSD,1,Ia,0,Database.csv,"EAZA Reptile Taxon Advisory Group. (2019). Best practice guidelines for the Egyptian tortoise (Testudo kleinmanni). EAZA Executive Office, Amsterdam.",NA,No data supporting type classification
-Testudines,Testudinidae,Testudo,Testudo_marginata,NA,TSD,1,Ia,1,"Leone, C., & Hermes, A. (2017). Testudo marginata: Care statistics in regions of the United States with notes on the recognition of possible subspecies. Retrieved from https://www.hermannihaven.com/t-marginata-care-statistics",NA,NA,No supporting data; classification confident based on writer/breeder expertise
-Testudines,Emydidae,Trachemys,Trachemys_adiutrix,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Emydidae,Trachemys,Trachemys_callirostris,"callirostris, chichiriviche",TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Emydidae,Trachemys,Trachemys_decorata,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Emydidae,Trachemys,Trachemys_decussata,"decussata, angusta",NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Emydidae,Trachemys,Trachemys_dorbigni,dorbigni,TSD,1,NA,NA,Database.csv,NA,NA,NA
-Testudines,Emydidae,Trachemys,Trachemys_gaigeae,"gaigeae, hartwegi",TSD,0,Ia,0,"Girondot, M. (2010). Sex in common pet turtles. WebmedCentral Veterinary Medicine, 1(10), WMC00877.",NA,NA,No data or reference supporting SDM/Type classification
-Testudines,Emydidae,Trachemys,Trachemys_grayi,"grayi, emolli, panamensis",NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Emydidae,Trachemys,Trachemys_nebulosa,"nebulosa, hiltoni",NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Emydidae,Trachemys,Trachemys_ornata,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Emydidae,Trachemys,Trachemys_scripta,"scripta, elegans, troostii",TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Emydidae,Trachemys,Trachemys_stejnegeri,"stejnegeri, malonei, vicina",NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Emydidae,Trachemys,Trachemys_taylori,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Emydidae,Trachemys,Trachemys_terrapen,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Emydidae,Trachemys,Trachemys_venusta,"venusta, cataspila, iversoni, uhrigi",TSD,1,Ia,1,Database.csv,NA,NA,NA
-Testudines,Emydidae,Trachemys,Trachemys_yaquia,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Trionychidae,Trionyx,Trionyx_triunguis,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Geoemydidae,Vijayachelys,Vijayachelys_silvatica,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Order,Family,Genus,Species,Subspecies,SDM,SDM_Confidence,Type,Type_Confidence,Source_1,Source_2,Source_3,Notes,,,,,,,,,,,
+Testudines,Chelidae,Acanthochelys,Acanthochelys_macrocephala,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Chelidae,Acanthochelys,Acanthochelys_pallidipectoris,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Chelidae,Acanthochelys,Acanthochelys_radiolata,NA,GSD,1,XY,1,"McBee, K., Bickham, J. W., Rhodin, A. G. J., & Mittermeier, R. A. (1985). Karyotypic variation in the genus Platemys (Testudines: Pleurodira). Copeia, 1985(2), 445-449.",NA,NA,Classification based on single male karyotype; classification confident based on other chelids,,,,,,,,,,,
+Testudines,Chelidae,Acanthochelys,Acanthochelys_spixii,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Testudinidae,Aldabrachelys,Aldabrachelys_gigantea,"gigantea, arnoldi, hololissa",TSD,1,NA,NA,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Trionychidae,Amyda,Amyda_cartilaginea,"cartilaginea, maculosa, ornata, phayrei",GSD,1,ZW,1,Database.csv,"Rovatsos, M., Praschag, P., Fritz, U., & Kratochvíl, L. (2017). Stable Cretaceous sex chromosomes enable molecular sexing in softshell turtles (Testudines: Trionychidae). Scientific Reports, 7(1), 42150.",NA,NA,,,,,,,,,,,
+Testudines,Trionychidae,Amyda,Amyda_ornata,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Trionychidae,Apalone,Apalone_ferox,NA,GSD,1,ZW,1,Database.csv,"Rovatsos, M., & Kratochvíl, L. (2021). Evolution of dosage compensation does not depend on genomic background. Molecular Ecology, 30(8), 1836-1845.",NA,NA,,,,,,,,,,,NA
+Testudines,Trionychidae,Apalone,Apalone_mutica,"mutica, calvata",GSD,1,NA,NA,Database.csv,NA,NA,NA,,,,,,,,,,,NA
+Testudines,Trionychidae,Apalone,Apalone_spinifera,"spinifera, aspera, atra, emoryi, guadalupensis, pallida",GSD,1,ZW,1,Database.csv,"Badenhorst, D., Stanyon, R., Engstrom, T., & Valenzuela, N. (2013). A ZZ/ZW microchromosome system in the spiny softshell turtle, Apalone spinifera, reveals an intriguing sex chromosome conservation in Trionychidae. Chromosome Research, 21(2), 137-147.",NA,NA,,,,,,,,,,,NA
+Testudines,Testudinidae,Astrochelys,Astrochelys_radiata,NA,TSD,1,NA,NA,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Testudinidae,Astrochelys,Astrochelys_yniphora,NA,TSD,1,NA,NA,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Batagur,Batagur_affinis,"affinis, edwardmolli",TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Batagur,Batagur_baska,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Batagur,Batagur_borneoensis,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Batagur,Batagur_dhongoka,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Batagur,Batagur_kachuga,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Batagur,Batagur_trivittata,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Cheloniidae,Caretta,Caretta_caretta,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Carettochelyidae,Carettochelys,Carettochelys_insculpta,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Testudinidae,Centrochelys,Centrochelys_sulcata,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Chelidae,Chelodina,Chelodina_burrungandjii,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Chelidae,Chelodina,Chelodina_canni,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Chelidae,Chelodina,Chelodina_expansa,NA,GSD,1,XY,1,"Mazzoleni, S., Augstenová, B., Clemente, L., Auer, M., Fritz, U., Praschag, P., Protiva, T., Velenský, P., Kratochvíl, L., & Rovatsos, M. (2020). Sex is determined by XX/XY sex chromosomes in Australasian side-necked turtles (Testudines: Chelidae). Scientific Reports, 10(1), 4276.",NA,NA,NA,,,,,,,,,,,
+Testudines,Chelidae,Chelodina,Chelodina_gunaleni,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Chelidae,Chelodina,Chelodina_kuchlingi,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Chelidae,Chelodina,Chelodina_kurrichalpongo,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Chelidae,Chelodina,Chelodina_longicollis,NA,GSD,1,XY,1,Database.csv,"Ezaz, T., Valenzuela, N., Grützner, F., Miura, I., Georges, A., Burke, R. L., & Graves, J. A. M. (2006). An XX/XY sex microchromosome system in a freshwater turtle, Chelodina longicollis (Testudines: Chelidae) with genetic sex determination. Chromosome Research, 14(2), 139-150.","Matsubara, K., O'Meally, D., Azad, B., Georges, A., Sarre, S. D., Graves, J. A. M., Matsuda, Y., & Ezaz, T. (2016). Amplification of microsatellite repeat motifs is associated with evolutionary differentiation and heterochromatinization of sex chromosomes in Sauropsida. Chromosoma, 125(1), 111-123.",NA,,,,,,,,,,,
+Testudines,Chelidae,Chelodina,Chelodina_mccordi,"mccordi, timorensis",GSD,1,XY,1,"Mazzoleni, S., Augstenová, B., Clemente, L., Auer, M., Fritz, U., Praschag, P., Protiva, T., Velenský, P., Kratochvíl, L., & Rovatsos, M. (2020). Sex is determined by XX/XY sex chromosomes in Australasian side-necked turtles (Testudines: Chelidae). Scientific Reports, 10(1), 4276.",NA,NA,NA,,,,,,,,,,,
+Testudines,Chelidae,Chelodina,Chelodina_novaeguineae,NA,GSD,1,XY,1,"Mazzoleni, S., Augstenová, B., Clemente, L., Auer, M., Fritz, U., Praschag, P., Protiva, T., Velenský, P., Kratochvíl, L., & Rovatsos, M. (2020). Sex is determined by XX/XY sex chromosomes in Australasian side-necked turtles (Testudines: Chelidae). Scientific Reports, 10(1), 4276.",NA,NA,NA,,,,,,,,,,,
+Testudines,Chelidae,Chelodina,Chelodina_oblonga,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Chelidae,Chelodina,Chelodina_parkeri,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Chelidae,Chelodina,Chelodina_pritchardi,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Chelidae,Chelodina,Chelodina_reimanni,NA,GSD,1,XY,1,"Mazzoleni, S., Augstenová, B., Clemente, L., Auer, M., Fritz, U., Praschag, P., Protiva, T., Velenský, P., Kratochvíl, L., & Rovatsos, M. (2020). Sex is determined by XX/XY sex chromosomes in Australasian side-necked turtles (Testudines: Chelidae). Scientific Reports, 10(1), 4276.",NA,NA,NA,,,,,,,,,,,
+Testudines,Chelidae,Chelodina,Chelodina_rugosa,NA,GSD,1,XY,1,"Mazzoleni, S., Augstenová, B., Clemente, L., Auer, M., Fritz, U., Praschag, P., Protiva, T., Velenský, P., Kratochvíl, L., & Rovatsos, M. (2020). Sex is determined by XX/XY sex chromosomes in Australasian side-necked turtles (Testudines: Chelidae). Scientific Reports, 10(1), 4276.",NA,NA,NA,,,,,,,,,,,
+Testudines,Chelidae,Chelodina,Chelodina_steindachneri,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Chelidae,Chelodina,Chelodina_walloyarrina,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Cheloniidae,Chelonia,Chelonia_mydas,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Testudinidae,Chelonoidis,Chelonoidis_carbonarius,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Testudinidae,Chelonoidis,Chelonoidis_chilensis,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Testudinidae,Chelonoidis,Chelonoidis_denticulatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Testudinidae,Chelonoidis,Chelonoidis_niger,"niger, abingdonii, becki, chathamensis, darwini, donfaustoi, duncanensis, guntheri, hoodensis, microphyes, phantasticus, porteri, vandenburghi, vicina",TSD,1,Ia,1,Database.csv,"Sancho, A.C. (1988). Influencia de la temperatura de incubación en el sexo y parámetros para el reconocimiento del sexo en la tortuga gigante de Galápagos (Geochelone elephantopus) e histología de la gónada iguana terrestre (Conolophus subcristatus) (Undergraduate thesis, Pontificia Universidad Católica del Ecuador, Quito).",NA,"No access to source 2, but referenced in Sancho, A., Gutzke, W. H. N., Snell, H. L., Rea, S., Wilson, M., & Burke, R. L. (2017). Temperature sex determination, incubation duration, and hatchling sexual dimorphism in the Española Giant Tortoise (Chelonoidis hoodensis) of the Galápagos Islands. Amphibian & Reptile Conservation, 11(2) [General Section], 44-50 (e146).",,,,,,,,,,,
+Testudines,Chelidae,Chelus,Chelus_fimbriata,NA,GSD,1,XY,1,"Viana, P. F., Feldberg, E., Takagui, F. H., Menezes, S., Vogt, R. C., & Ezaz, T. (2022). Matamatas Chelus spp. (Testudines, Chelidae) have a remarkable evolutionary history of sex chromosomes with a long-term stable XY microchromosome system. Scientific Reports, 12, 6676.",NA,NA,NA,,,,,,,,,,,
+Testudines,Chelidae,Chelus,Chelus_orinocensis,NA,GSD,1,XY,1,"Viana, P. F., Feldberg, E., Takagui, F. H., Menezes, S., Vogt, R. C., & Ezaz, T. (2022). Matamatas Chelus spp. (Testudines, Chelidae) have a remarkable evolutionary history of sex chromosomes with a long-term stable XY microchromosome system. Scientific Reports, 12, 6676.",NA,NA,NA,,,,,,,,,,,
+Testudines,Chelydridae,Chelydra,Chelydra_acutirostris,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Chelydridae,Chelydra,Chelydra_rossignonii,NA,TSD,1,Ia,1,Database.csv,NA,NA,"Data supports Ia, but other chelydrids suggest it could be II",,,,,,,,,,,
+Testudines,Chelydridae,Chelydra,Chelydra_serpentina,NA,TSD,1,II,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Testudinidae,Chersina,Chersina_angulata,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Testudinidae,Chersobius,Chersobius_boulengeri,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Testudinidae,Chersobius,Chersobius_signatus,NA,TSD,1,NA,NA,Database.csv,NA,NA,Species studbooks (accessed from http://home.caiway.nl/~loehr/publications/stdplanhsig.pdf) indicate species has TSD but without data; classification confident based on expert claims and other testudinids,,,,,,,,,,,
+Testudines,Testudinidae,Chersobius,Chersobius_solus,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Trionychidae,Chitra,Chitra_chitra,"chitra, javanensis",TSD,0,NA,NA,Database.csv,NA,NA,Classification not confident based on other trionychids and sexing methods (only sexed dead juveniles),,,,,,,,,,,
+Testudines,Trionychidae,Chitra,Chitra_indica,NA,GSD,1,ZW,1,"Rovatsos, M., Praschag, P., Fritz, U., & Kratochvíl, L. (2017). Stable Cretaceous sex chromosomes enable molecular sexing in softshell turtles (Testudines: Trionychidae). Scientific Reports, 7(1), 42150.",NA,NA,NA,,,,,,,,,,,
+Testudines,Trionychidae,Chitra,Chitra_vandijki,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Emydidae,Chrysemys,Chrysemys_dorsalis,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Emydidae,Chrysemys,Chrysemys_picta,"picta, bellii, marginata",TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Kinosternidae,Claudius,Claudius_angustatus,NA,GSD,1,NA,NA,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Emydidae,Clemmys,Clemmys_guttata,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Cuora,Cuora_amboinensis,"amboinensis, cuoro, kamaroma, lineata",NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Cuora,Cuora_aurocapitata,"aurocapitata, dabieshani",NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Cuora,Cuora_bourreti,NA,NA,NA,NA,NA,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Cuora,Cuora_cyclornata,"cyclornata, annamitica, meieri",NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Cuora,Cuora_flavomarginata,"flavomarginata, evelynae",TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Cuora,Cuora_galbinifrons,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Cuora,Cuora_mccordi,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Cuora,Cuora_mouhotii,"mouhotii, obsti",NA,NA,NA,NA,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Cuora,Cuora_pani,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Cuora,Cuora_picturata,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Cuora,Cuora_trifasciata,"trifasciata, luteocephala",TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Cuora,Cuora_yunnanensis,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Cuora,Cuora_zhoui,NA,TSD,1,NA,NA,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Trionychidae,Cyclanorbis,Cyclanorbis_elegans,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Trionychidae,Cyclanorbis,Cyclanorbis_senegalensis,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Cyclemys,Cyclemys_atripons,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Cyclemys,Cyclemys_dentata,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Cyclemys,Cyclemys_enigmatica,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Cyclemys,Cyclemys_fusca,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Cyclemys,Cyclemys_gemeli,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Cyclemys,Cyclemys_oldhamii,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Cyclemys,Cyclemys_pulchristriata,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Trionychidae,Cycloderma,Cycloderma_aubryi,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Trionychidae,Cycloderma,Cycloderma_frenatum,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Testudinidae,Cylindraspis,Cylindraspis_indica,NA,NA,NA,NA,NA,NA,NA,NA,Extinct,,,,,,,,,,,
+Testudines,Testudinidae,Cylindraspis,Cylindraspis_inepta,NA,NA,NA,NA,NA,NA,NA,NA,Extinct,,,,,,,,,,,
+Testudines,Testudinidae,Cylindraspis,Cylindraspis_peltastes,NA,NA,NA,NA,NA,NA,NA,NA,Extinct,,,,,,,,,,,
+Testudines,Testudinidae,Cylindraspis,Cylindraspis_triserrata,NA,NA,NA,NA,NA,NA,NA,NA,Extinct,,,,,,,,,,,
+Testudines,Testudinidae,Cylindraspis,Cylindraspis_vosmaeri,NA,NA,NA,NA,NA,NA,NA,NA,Extinct,,,,,,,,,,,
+Testudines,Emydidae,Deirochelys,Deirochelys_reticularia,"reticularia, chrysea, miaria",TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Dermatemydidae,Dermatemys,Dermatemys_mawii,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Dermochelyidae,Dermochelys,Dermochelys_coriacea,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Trionychidae,Dogania,Dogania_subplana,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Chelidae,Elseya,Elseya_albagula,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Chelidae,Elseya,Elseya_branderhorsti,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Chelidae,Elseya,Elseya_dentata,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Chelidae,Elseya,Elseya_flaviventralis,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Chelidae,Elseya,Elseya_irwini,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Chelidae,Elseya,Elseya_lavarackorum,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Chelidae,Elseya,Elseya_novaeguineae,NA,GSD,1,XY,1,Database.csv,"Mazzoleni, S., Augstenová, B., Clemente, L., Auer, M., Fritz, U., Praschag, P., Protiva, T., Velenský, P., Kratochvíl, L., & Rovatsos, M. (2020). Sex is determined by XX/XY sex chromosomes in Australasian side-necked turtles (Testudines: Chelidae). Scientific Reports, 10(1), 4276.",NA,NA,,,,,,,,,,,
+Testudines,Chelidae,Elseya,Elseya_rhodini,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Chelidae,Elseya,Elseya_schultzei,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Chelidae,Elusor,Elusor_macrurus,NA,GSD,1,NA,NA,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Chelidae,Emydura,Emydura_gunaleni,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Chelidae,Emydura,Emydura_macquarii,"macquarii, emmotti, krefftii, nigra",GSD,1,XY,1,Database.csv,"Martinez, P. A., Ezaz, T., Valenzuela, N., Georges, A., & Graves, J. A. M. (2008). An XX/XY heteromorphic sex chromosome system in the Australian chelid turtle Emydura macquarii: A new piece in the puzzle of sex chromosome evolution in turtles. Chromosome Research, 16(6), 815-825.","Matsubara, K., O'Meally, D., Azad, B., Georges, A., Sarre, S. D., Graves, J. A. M., Matsuda, Y., & Ezaz, T. (2016). Amplification of microsatellite repeat motifs is associated with evolutionary differentiation and heterochromatinization of sex chromosomes in Sauropsida. Chromosoma, 125(1), 111-123.",Only data from 1 male in source 3,,,,,,,,,,,
+Testudines,Chelidae,Emydura,Emydura_subglobosa,"subglobosa, worrelli",GSD,1,XY,1,Database.csv,"Lee, L., Montiel, E. E., & Valenzuela, N. (2019). Discovery of putative XX/XY male heterogamety in Emydura subglobosa turtles exposes a novel trajectory of sex chromosome evolution in Emydura. Cytogenetic and Genome Research, 158(3), 160-169.",NA,NA,,,,,,,,,,,
+Testudines,Chelidae,Emydura,Emydura_tanybaraga,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Chelidae,Emydura,Emydura_victoriae,NA,GSD,1,NA,NA,Database.csv,NA,NA,4M:6F from one nest; classification confident based on other chelids,,,,,,,,,,,
+Testudines,Emydidae,Emys,Emys_blandingii,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Emydidae,Emys,Emys_marmorata,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Emydidae,Emys,Emys_orbicularis,"orbicularis, eiselti, galloitalica, hellenica, inguana, occidentalis, persica",TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Emydidae,Emys,Emys_pallida,NA,TSD,0,NA,NA,Chelonian TAG Steering Committee (Ed.) (2015). AZA Chelonian Advisory Group Regional Collection Plan. Retrieved from https://ams.aza.org/iweb/upload/DRAFT30DayReview_ChelonianTAGRCP2016-28f42a54.pdf,NA,NA,No data or reference supporting SDM classification,,,,,,,,,,,
+Testudines,Emydidae,Emys,Emys_trinacris,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Cheloniidae,Eretmochelys,Eretmochelys_imbricata,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Podocnemididae,Erymnochelys,Erymnochelys_madagascariensis,NA,TSD,1,NA,NA,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Testudinidae,Geochelone,Geochelone_elegans,NA,TSD,1,Ia,1,"Fife, J. D. (2007). Star tortoises: The natural history, captive care, and breeding of Geochelone elegans and Geochelone platynota. Turtles of the World Series: Testudinidae: No. 10.",NA,NA,No access; classification confident based on data referenced at https://startortoises.net/incubation.html,,,,,,,,,,,
+Testudines,Testudinidae,Geochelone,Geochelone_platynota,NA,TSD,1,Ia,1,Database.csv,"Fife, J. D. (2007). Star tortoises: The natural history, captive care, and breeding of Geochelone elegans and Geochelone platynota. Turtles of the World Series: Testudinidae: No. 10.",NA,No access to source 2,,,,,,,,,,,
+Testudines,Geoemydidae,Geoclemys,Geoclemys_hamiltonii,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Geoemyda,Geoemyda_japonica,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Geoemyda,Geoemyda_spengleri,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Emydidae,Glyptemys,Glyptemys_insculpta,NA,GSD,1,XY,1,Database.csv,"Montiel, E. E., Badenhorst, D., Tamplin, J., Burke, R. L., & Valenzuela, N. (2017). Discovery of the youngest sex chromosomes reveals first case of convergent co-option of ancestral autosomes in turtles. Chromosoma, 126(1), 105-113.",NA,NA,,,,,,,,,,,
+Testudines,Emydidae,Glyptemys,Glyptemys_muhlenbergii,NA,GSD,1,XY,1,Database.csv,"Literman, R., Radhakrishnan, S., Tamplin, J., Burke, R., Dresser, C., & Valenzuela, N. (2017). Development of sexing primers in Glyptemys insculpta and Apalone spinifera turtles uncovers an XX/XY sex-determining system in the critically-endangered bog turtle Glyptemys muhlenbergii. Conservation Genetics Resources, 9(4), 651-658.",NA,NA,,,,,,,,,,,
+Testudines,Testudinidae,Gopherus,Gopherus_agassizii,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Testudinidae,Gopherus,Gopherus_berlandieri,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Testudinidae,Gopherus,Gopherus_evgoodei,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Testudinidae,Gopherus,Gopherus_flavomarginatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Testudinidae,Gopherus,Gopherus_morafkai,NA,TSD,0,NA,NA,"Ennen, J. R., Lovich, J. E., Averill-Murray, R. C., Yackulic, C. B., Agha, M., Loughran, C., Tennant, L. & Sinervo, B. (2017). The evolution of different maternal investment strategies in two closely related desert vertebrates. Ecology and Evolution, 7(9), 3177-3189.",NA,NA,Reference study working on Gopherus agassizii,,,,,,,,,,,
+Testudines,Testudinidae,Gopherus,Gopherus_polyphemus,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Emydidae,Graptemys,Graptemys_barbouri,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Emydidae,Graptemys,Graptemys_caglei,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Emydidae,Graptemys,Graptemys_ernsti,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Emydidae,Graptemys,Graptemys_flavimaculata,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Emydidae,Graptemys,Graptemys_geographica,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Emydidae,Graptemys,Graptemys_gibbonsi,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Emydidae,Graptemys,Graptemys_nigrinoda,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Emydidae,Graptemys,Graptemys_oculifera,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Emydidae,Graptemys,Graptemys_ouachitensis,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Emydidae,Graptemys,Graptemys_pearlensis,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Emydidae,Graptemys,Graptemys_pseudogeographica,"pseudogeographica, kohnii",TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Emydidae,Graptemys,Graptemys_pulchra,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Emydidae,Graptemys,Graptemys_sabinensis,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Emydidae,Graptemys,Graptemys_versa,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Hardella,Hardella_thurjii,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Heosemys,Heosemys_annandalii,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Heosemys,Heosemys_depressa,NA,NA,NA,NA,NA,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Heosemys,Heosemys_grandis,NA,TSD,1,II,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Heosemys,Heosemys_spinosa,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Testudinidae,Homopus,Homopus_areolatus,NA,TSD,1,NA,NA,"Loehr, V. (2016). Homopus Research Foundation Annual Report 2015. Retrieved from https://www.studbooks.eu/site/assets/files/1644/annual_report_2015_homopus_research_foundation.pdf",NA,NA,No data or reference supporting SDM classification; classification confident based on expert claims and other testudinids,,,,,,,,,,,
+Testudines,Testudinidae,Homopus,Homopus_femoralis,NA,TSD,1,NA,NA,"Loehr, V. (2017). Homopus Research Foundation Annual Report 2016. Retrieved from https://studbooks.eu/site/assets/files/1646/annual_report_homopus_research_foundation_2016.pdf",NA,NA,No data or reference supporting SDM classification; classification confident based on expert claims and other testudinids,,,,,,,,,,,
+Testudines,Chelidae,Hydromedusa,Hydromedusa_maximiliani,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Chelidae,Hydromedusa,Hydromedusa_tectifera,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Testudinidae,Indotestudo,Indotestudo_elongata,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Testudinidae,Indotestudo,Indotestudo_forstenii,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Testudinidae,Indotestudo,Indotestudo_travancorica,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Testudinidae,Kinixys,Kinixys_belliana,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Testudinidae,Kinixys,Kinixys_erosa,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Testudinidae,Kinixys,Kinixys_homeana,NA,TSD,0,NA,NA,"Luiselli, L., Agyekumhene, A., Akani, G. C., Allman, P., Diagne, T., Eniang, E. A., Mifsud, D. A., Petrozzi, F., & Segniagbeto, G. H. (2021). Kinixys homeana, Home's hinge-back tortoise. The IUCN Red List of Threatened Species, e.T11003A18341580.",NA,NA,Source 1 lists TSD as suspected based on personal communication with known breeder,,,,,,,,,,,
+Testudines,Testudinidae,Kinixys,Kinixys_lobatsiana,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Testudinidae,Kinixys,Kinixys_natalensis,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Testudinidae,Kinixys,Kinixys_nogueyi,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Testudinidae,Kinixys,Kinixys_spekii,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Testudinidae,Kinixys,Kinixys_zombensis,"zombensis, domerguei",NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Kinosternidae,Kinosternon,Kinosternon_abaxillare,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Kinosternidae,Kinosternon,Kinosternon_acutum,NA,TSD,1,NA,NA,"Vogt, R. C. (1989). Effects of incubation temperature on sex determination in a neotropical freshwater turtle community in southern Mexico. In T. Halliday, J. Baker, & L. Hosie (Eds.), First World Congress of Herpetology, 11-19 September 1989 (Abstr.). University of Kent, Canterbury.",NA,NA,"No access, but referenced in previous SDM summaries",,,,,,,,,,,
+Testudines,Kinosternidae,Kinosternon,Kinosternon_alamosae,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Kinosternidae,Kinosternon,Kinosternon_angustipons,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Kinosternidae,Kinosternon,Kinosternon_baurii,NA,TSD,1,II,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Kinosternidae,Kinosternon,Kinosternon_chimalhuaca,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Kinosternidae,Kinosternon,Kinosternon_cora,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Kinosternidae,Kinosternon,Kinosternon_creaseri,NA,TSD,1,II,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Kinosternidae,Kinosternon,Kinosternon_dunni,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Kinosternidae,Kinosternon,Kinosternon_durangoense,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Kinosternidae,Kinosternon,Kinosternon_flavescens,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Kinosternidae,Kinosternon,Kinosternon_herrerai,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Kinosternidae,Kinosternon,Kinosternon_hirtipes,"hirtipes, chapalaense, magdalense, murrayi, tarascense",TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Kinosternidae,Kinosternon,Kinosternon_integrum,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Kinosternidae,Kinosternon,Kinosternon_leucostomum,"leucostomum, postinguinale",TSD,1,II,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Kinosternidae,Kinosternon,Kinosternon_oaxacae,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Kinosternidae,Kinosternon,Kinosternon_scorpioides,"scorpioides, albogulare, cruentatum",TSD,1,II,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Kinosternidae,Kinosternon,Kinosternon_sonoriense,"sonoriense, longifemorale",TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Kinosternidae,Kinosternon,Kinosternon_steindachneri,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Kinosternidae,Kinosternon,Kinosternon_stejnegeri,NA,TSD,1,II,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Kinosternidae,Kinosternon,Kinosternon_subrubrum,"subrubrum, hippocrepis",TSD,1,"Ia, II",1,Database.csv,NA,NA,"Kinosternon subrubrum subrubrum appears Ia, K. s. hippocrepis appears II",,,,,,,,,,,
+Testudines,Kinosternidae,Kinosternon,Kinosternon_vogti,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Cheloniidae,Lepidochelys,Lepidochelys_kempii,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Cheloniidae,Lepidochelys,Lepidochelys_olivacea,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Leucocephalon,Leucocephalon_yuwonoi,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Trionychidae,Lissemys,Lissemys_ceylonensis,NA,GSD,1,ZW,1,"Rovatsos, M., Praschag, P., Fritz, U., & Kratochvíl, L. (2017). Stable Cretaceous sex chromosomes enable molecular sexing in softshell turtles (Testudines: Trionychidae). Scientific Reports, 7(1), 42150.",NA,NA,NA,,,,,,,,,,,
+Testudines,Trionychidae,Lissemys,Lissemys_punctata,"punctata, andersoni, vittata",GSD,1,ZW,1,"Rovatsos, M., Praschag, P., Fritz, U., & Kratochvíl, L. (2017). Stable Cretaceous sex chromosomes enable molecular sexing in softshell turtles (Testudines: Trionychidae). Scientific Reports, 7(1), 42150.",NA,NA,NA,,,,,,,,,,,
+Testudines,Trionychidae,Lissemys,Lissemys_scutata,NA,GSD,1,ZW,1,"Rovatsos, M., Praschag, P., Fritz, U., & Kratochvíl, L. (2017). Stable Cretaceous sex chromosomes enable molecular sexing in softshell turtles (Testudines: Trionychidae). Scientific Reports, 7(1), 42150.",NA,NA,NA,,,,,,,,,,,
+Testudines,Chelydridae,Macrochelys,Macrochelys_suwanniensis,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Chelydridae,Macrochelys,Macrochelys_temminckii,NA,TSD,1,II,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Emydidae,Malaclemys,Malaclemys_terrapin,"terrapin, centrata, littoralis, macrospilota, pileata, rhizophorarum, tequesta",TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Testudinidae,Malacochersus,Malacochersus_tornieri,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Malayemys,Malayemys_khoratensis,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Malayemys,Malayemys_macrocephala,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Malayemys,Malayemys_subtrijuga,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Testudinidae,Manouria,Manouria_emys,"emys, phayrei",TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Testudinidae,Manouria,Manouria_impressa,NA,TSD,1,NA,NA,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Mauremys,Mauremys_annamensis,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Mauremys,Mauremys_caspica,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Mauremys,Mauremys_japonica,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Mauremys,Mauremys_leprosa,"leprosa, saharica",NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Mauremys,Mauremys_mutica,"mutica, kami",TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Mauremys,Mauremys_nigricans,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Mauremys,Mauremys_reevesii,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Mauremys,Mauremys_rivulata,NA,TSD,0,NA,NA,"Güçlü, Ö., & Türkozan, O. (2010). Population structure of Mauremys rivulata in western Turkey. Turkish Journal of Zoology, 34(3), 385-391.",NA,NA,No data supporting SDM classification,,,,,,,,,,,
+Testudines,Geoemydidae,Mauremys,Mauremys_sinensis,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Melanochelys,Melanochelys_tricarinata,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Melanochelys,Melanochelys_trijuga,"trijuga, coronata, edeniana, indopeninsularis, parkeri, thermalis",TSD,1,II,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Chelidae,Mesoclemmys,Mesoclemmys_dahli,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Chelidae,Mesoclemmys,Mesoclemmys_gibba,NA,GSD,1,NA,NA,Database.csv,NA,NA,"Additional data potentially in Pieau, C., & Dorizzi, M. (2004). Temperaturabhängige Geschlechtsfixierung bei Sumpf- Wasser- und Landschildkröten Teil 1. Marginata, 1(4), 35-43.",,,,,,,,,,,
+Testudines,Chelidae,Mesoclemmys,Mesoclemmys_nasuta,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Chelidae,Mesoclemmys,Mesoclemmys_perplexa,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Chelidae,Mesoclemmys,Mesoclemmys_raniceps,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Chelidae,Mesoclemmys,Mesoclemmys_tuberculata,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Chelidae,Mesoclemmys,Mesoclemmys_vanderhaegei,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Chelidae,Mesoclemmys,Mesoclemmys_wermuthi,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Chelidae,Mesoclemmys,Mesoclemmys_zuliae,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Morenia,Morenia_ocellata,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Morenia,Morenia_petersi,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Chelidae,Myuchelys,Myuchelys_bellii,NA,GSD,1,XY,1,"Dissanayake, D. S. B., Streeting, L. M., Georges, A., & Bower, D. S. (2022). A male-specific sex marker for the endangered western sawshelled turtle (Myuchelys bellii) using in silico whole-genome subtraction. Conservation Genetics Resources, ",NA,NA,NA,,,,,,,,,,,
+Testudines,Chelidae,Myuchelys,Myuchelys_georgesi,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Chelidae,Myuchelys,Myuchelys_latisternum,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Chelidae,Myuchelys,Myuchelys_purvisi,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Cheloniidae,Natator,Natator_depressus,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Trionychidae,Nilssonia,Nilssonia_formosa,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Trionychidae,Nilssonia,Nilssonia_gangetica,NA,GSD,1,ZW,1,"Rovatsos, M., Praschag, P., Fritz, U., & Kratochvíl, L. (2017). Stable Cretaceous sex chromosomes enable molecular sexing in softshell turtles (Testudines: Trionychidae). Scientific Reports, 7(1), 42150.",NA,NA,NA,,,,,,,,,,,
+Testudines,Trionychidae,Nilssonia,Nilssonia_hurum,NA,GSD,1,ZW,1,"Rovatsos, M., Praschag, P., Fritz, U., & Kratochvíl, L. (2017). Stable Cretaceous sex chromosomes enable molecular sexing in softshell turtles (Testudines: Trionychidae). Scientific Reports, 7(1), 42150.",NA,NA,NA,,,,,,,,,,,
+Testudines,Trionychidae,Nilssonia,Nilssonia_leithii,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Trionychidae,Nilssonia,Nilssonia_nigricans,NA,GSD,1,ZW,1,"Rovatsos, M., Praschag, P., Fritz, U., & Kratochvíl, L. (2017). Stable Cretaceous sex chromosomes enable molecular sexing in softshell turtles (Testudines: Trionychidae). Scientific Reports, 7(1), 42150.",NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Notochelys,Notochelys_platynota,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Orlitia,Orlitia_borneensis,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Trionychidae,Palea,Palea_steindachneri,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Pangshura,Pangshura_smithii,"smithii, pallidipes",GSD,0,ZW,0,"Sharma, G. P., Kaur, P., & Nakhasi, U. (1975). Female heterogamety in the Indian cryptodiran chelonian, Kachuga smithii Gray. In K. K. Tiwari, & C. B. Srivistava (Eds.), Dr. B. S. Chuahah Commemoration Volume (pp. 359-368). Orissa: Zoological Society of India.","Mazzoleni, S., Augstenová, B., Clemente, L., Auer, M., Fritz, U., Praschag, P., Protiva, T., Velenský, P., Kratochvíl, L., & Rovatsos, M. (2019). Turtles of the genera Geoemyda and Pangshura (Testudines: Geoemydidae) lack differentiated sex chromosomes: The end of a 40-year error cascade for Pangshura. PeerJ, 7, e6241.",NA,Original ZZ/ZW classification overturned by source 2,,,,,,,,,,,
+Testudines,Geoemydidae,Pangshura,Pangshura_sylhetensis,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Pangshura,Pangshura_tecta,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Pangshura,Pangshura_tentoria,"tentoria, circumdata, flaviventer",NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Trionychidae,Pelochelys,Pelochelys_bibroni,NA,GSD,0,NA,NA,"Georges, A., Guarino, F., & Bito, B. (2005). Turtles of the TransFly. Report to the Suki/Aramba Wildlife Management Committee, Serki, Western Province, Papua New Guinea by the Institute for Applied Ecology, University of Canberra. October 2005. 1-31.",NA,NA,No data or reference supporting SDM classification,,,,,,,,,,,
+Testudines,Trionychidae,Pelochelys,Pelochelys_cantorii,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Trionychidae,Pelochelys,Pelochelys_signifera,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Trionychidae,Pelodiscus,Pelodiscus_axenaria,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Trionychidae,Pelodiscus,Pelodiscus_huangshanensis,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Trionychidae,Pelodiscus,Pelodiscus_maackii,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Trionychidae,Pelodiscus,Pelodiscus_parviformis,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Trionychidae,Pelodiscus,Pelodiscus_sinensis,NA,GSD,1,ZW,1,Database.csv,"Kawai, A., Nishida-Umehara, C., Ishijima, J., Tsuda, Y., Ota, H., & Matsuda, Y. (2007). Different origins of bird and reptile sex chromosomes inferred from comparative mapping of chicken Z-linked genes. Cytogenetic and Genome Research, 117(1-4), 92-102.","Badenhorst, D., Stanyon, R., Engstrom, T., & Valenzuela, N. (2013). A ZZ/ZW microchromosome system in the spiny softshell turtle, Apalone spinifera, reveals an intriguing sex chromosome conservation in Trionychidae. Chromosome Research, 21(2), 137-147.",NA,,,,,,,,,,,
+Testudines,Trionychidae,Pelodiscus,Pelodiscus_variegatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Pelomedusidae,Pelomedusa,Pelomedusa_barbata,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Pelomedusidae,Pelomedusa,Pelomedusa_galeata,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Pelomedusidae,Pelomedusa,Pelomedusa_gehafie,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Pelomedusidae,Pelomedusa,Pelomedusa_kobe,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Pelomedusidae,Pelomedusa,Pelomedusa_neumanni,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Pelomedusidae,Pelomedusa,Pelomedusa_olivacea,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Pelomedusidae,Pelomedusa,Pelomedusa_schweinfurthi,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Pelomedusidae,Pelomedusa,Pelomedusa_somalica,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Pelomedusidae,Pelomedusa,Pelomedusa_subrufa,NA,TSD,1,II,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Pelomedusidae,Pelomedusa,Pelomedusa_variabilis,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Podocnemididae,Peltocephalus,Peltocephalus_dumerilianus,NA,TSD,1,NA,NA,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Pelomedusidae,Pelusios,Pelusios_adansonii,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Pelomedusidae,Pelusios,Pelusios_bechuanicus,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Pelomedusidae,Pelusios,Pelusios_broadleyi,NA,TSD,1,II,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Pelomedusidae,Pelusios,Pelusios_carinatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Pelomedusidae,Pelusios,Pelusios_castaneus,NA,TSD,1,II,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Pelomedusidae,Pelusios,Pelusios_castanoides,"castanoides, intergularis",NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Pelomedusidae,Pelusios,Pelusios_chapini,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Pelomedusidae,Pelusios,Pelusios_cupulatta,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Pelomedusidae,Pelusios,Pelusios_gabonensis,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Pelomedusidae,Pelusios,Pelusios_marani,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Pelomedusidae,Pelusios,Pelusios_nanus,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Pelomedusidae,Pelusios,Pelusios_niger,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Pelomedusidae,Pelusios,Pelusios_rhodesianus,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Pelomedusidae,Pelusios,Pelusios_sinuatus,"sinuatus, bottegi",NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Pelomedusidae,Pelusios,Pelusios_subniger,"subniger, parietalis",GSD,0,NA,NA,"Gerlach, J. (2008). Fragmentation and demography as causes of population decline in Seychelles freshwater turtles (Genus Pelusios). Chelonian Conservation and Biology, 7(1), 78-87.",NA,NA,Reference unprovided sex ratio data; classification not confident based on other pelomedusids,,,,,,,,,,,
+Testudines,Pelomedusidae,Pelusios,Pelusios_upembae,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Pelomedusidae,Pelusios,Pelusios_williamsi,"williamsi, laurenti, lutescens",NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Chelidae,Phrynops,Phrynops_geoffroanus,NA,GSD,1,NA,NA,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Chelidae,Phrynops,Phrynops_hilarii,NA,GSD,1,NA,NA,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Chelidae,Phrynops,Phrynops_tuberosus,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Chelidae,Phrynops,Phrynops_williamsi,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Chelidae,Platemys,Platemys_platycephala,"platycephala, melanonota",GSD,1,NA,NA,"Pieau, C., & Dorizzi, M. (2004). Temperaturabhängige Geschlechtsfixierung bei Sumpf- Wasser- und Landschildkröten Teil 1. Marginata, 1(4), 35-43.",NA,NA,"No access; classification confident based on other chelids and cited in Böhm, S. (2020). Ecology of the chelid turtles Platemys platycephala, Mesoclemmys gibba and Mesoclemmys nasuta in French Guyana. With notes on short term migrations and dietary spectrum of Platemys platycephala in the Nouragues Field Reserve, French Guyana (Master's thesis, Universität Wien, Vienna). Retrieved from http://othes.univie.ac.at/13016/1/2011-01-19_0400219.pdf",,,,,,,,,,,
+Testudines,Platysternidae,Platysternon,Platysternon_megacephalum,"megacephalum, peguense, shiui",NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Podocnemididae,Podocnemis,Podocnemis_erythrocephala,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Podocnemididae,Podocnemis,Podocnemis_expansa,NA,TSD,1,Ia,0,Database.csv,NA,NA,"Appears II based on two cold nests that produced females, but constant incubations appear type Ia",,,,,,,,,,,
+Testudines,Podocnemididae,Podocnemis,Podocnemis_lewyana,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Podocnemididae,Podocnemis,Podocnemis_sextuberculata,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Podocnemididae,Podocnemis,Podocnemis_unifilis,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Podocnemididae,Podocnemis,Podocnemis_vogli,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Testudinidae,Psammobates,Psammobates_geometricus,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Testudinidae,Psammobates,Psammobates_oculifer,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Testudinidae,Psammobates,Psammobates_tentorius,"tentorius, trimeni, verroxii",NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Chelidae,Pseudemydura,Pseudemydura_umbrina,NA,GSD,1,NA,NA,"Burbidge, A. A., & Kuchling, G. (2004). Western swamp tortoise (Pseudemydura umbrina) recovery plan. Wildlife Management Program No. 37.",NA,NA,Reference unprovided sex ratio data; classification confident based on other chelids,,,,,,,,,,,
+Testudines,Emydidae,Pseudemys,Pseudemys_alabamensis,NA,TSD,0,Ia,0,"Girondot, M. (2010). Sex in common pet turtles. WebmedCentral Veterinary Medicine, 1(10), WMC00877.",NA,NA,No data or reference supporting SDM/Type classification,,,,,,,,,,,
+Testudines,Emydidae,Pseudemys,Pseudemys_concinna,"concinna, suwanniensis",TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Emydidae,Pseudemys,Pseudemys_floridana,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Emydidae,Pseudemys,Pseudemys_gorzugi,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Emydidae,Pseudemys,Pseudemys_nelsoni,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Emydidae,Pseudemys,Pseudemys_peninsularis,NA,TSD,0,Ia,0,"Girondot, M. (2010). Sex in common pet turtles. WebmedCentral Veterinary Medicine, 1(10), WMC00877.",NA,NA,No data or reference supporting SDM/Type classification,,,,,,,,,,,
+Testudines,Emydidae,Pseudemys,Pseudemys_rubriventris,NA,TSD,0,Ia,0,"USFWS. (1994). Plymouth redbelly turtle (Pseudemys rubriventris) recovery plan: Second revision. Hadley, Massachusetts.",NA,NA,No data or reference supporting SDM/Type classification,,,,,,,,,,,
+Testudines,Emydidae,Pseudemys,Pseudemys_texana,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Testudinidae,Pyxis,Pyxis_arachnoides,"arachnoides, brygooi, oblonga",TSD,1,NA,NA,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Testudinidae,Pyxis,Pyxis_planicauda,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Trionychidae,Rafetus,Rafetus_euphraticus,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Trionychidae,Rafetus,Rafetus_swinhoei,NA,GSD,1,ZW,1,"Ren, Y., Zhang, Q., Yan, X., Hou, D., Huang, H., Li, C., Rao, D., & Li, Y. (2022). Genomic insights into the evolution of the critically endangered soft-shelled turtle Rafetus swinhoei. Molecular Ecology Resources, ",NA,NA,NA,,,,,,,,,,,
+Testudines,Chelidae,Ranacephala,Ranacephala_hogei,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Chelidae,Rheodytes,Rheodytes_leukops,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Chelidae,Rhinemys,Rhinemys_rufipes,NA,GSD,1,XY,1,"Viana, P. F., Feldberg, E., Cioffi, M. B., de Carvalho, V. T., Menezes, S., Vogt, R. C., Liehr, T., & Ezaz, T. (2020). The Amazonian red side-necked turtle Rhinemys rufipes (Spix, 1824) (Testudines, Chelidae) has a GSD sex-determining mechanism with an ancient XY sex microchromosome system. Cells, 9(9), 2088.",NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Rhinoclemmys,Rhinoclemmys_annulata,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Rhinoclemmys,Rhinoclemmys_areolata,NA,TSD,1,II,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Rhinoclemmys,Rhinoclemmys_diademata,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Rhinoclemmys,Rhinoclemmys_funerea,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Rhinoclemmys,Rhinoclemmys_melanosterna,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Rhinoclemmys,Rhinoclemmys_nasuta,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Rhinoclemmys,Rhinoclemmys_pulcherrima,"pulcherrima, incisa, manni, rogerbarbouri",TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Rhinoclemmys,Rhinoclemmys_punctularia,"punctularia, flammigera",NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Rhinoclemmys,Rhinoclemmys_rubida,"rubida, perixantha",NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Sacalia,Sacalia_bealei,NA,TSD,0,NA,NA,Chelonian TAG Steering Committee (Ed.) (2015). AZA Chelonian Advisory Group Regional Collection Plan. Retrieved from https://ams.aza.org/iweb/upload/DRAFT30DayReview_ChelonianTAGRCP2016-28f42a54.pdf,NA,NA,No data or reference supporting SDM classification,,,,,,,,,,,
+Testudines,Geoemydidae,Sacalia,Sacalia_quadriocellata,NA,TSD,0,NA,NA,Chelonian TAG Steering Committee (Ed.) (2015). AZA Chelonian Advisory Group Regional Collection Plan. Retrieved from https://ams.aza.org/iweb/upload/DRAFT30DayReview_ChelonianTAGRCP2016-28f42a54.pdf,NA,NA,No data or reference supporting SDM classification,,,,,,,,,,,
+Testudines,Geoemydidae,Siebenrockiella,Siebenrockiella_crassicollis,NA,GSD,1,XY,1,"Carr, J. L., & Bickham, J. W. (1981). Sex chromosomes of the Asian black pond turtle, Siebenrockiella crassicollis (Testudines: Emydidae). Cytogenetics and Cell Genetics, 31(3), 178-183.",NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Siebenrockiella,Siebenrockiella_leytensis,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Kinosternidae,Staurotypus,Staurotypus_salvinii,NA,GSD,1,XY,1,Database.csv,"Bull, J. J., Moon, R. G., & Legler, J. M. (1974). Male heterogamety in kinosternid turtles (genus Staurotypus). Cytogenetics and Cell Genetics, 13(5), 419-425.","Sites, J. W., Jr., Bickham, J. W., & Haiduk, M. W. (1979). Derived X chromosome in the turtle genus Staurotypus. Science, 206(4425), 1410-1412.",NA,,,,,,,,,,,
+Testudines,Kinosternidae,Staurotypus,Staurotypus_triporcatus,NA,GSD,1,XY,1,Database.csv,"Bull, J. J., Moon, R. G., & Legler, J. M. (1974). Male heterogamety in kinosternid turtles (genus Staurotypus). Cytogenetics and Cell Genetics, 13(5), 419-425.","Kawagoshi, T., Uno, Y., Nishida, C., & Matsuda, Y. (2014). The Staurotypus turtles and Aves share the same origin of sex chromosomes but evolved different types of heterogametic sex determination. PLoS ONE, 9(8), e105315.",NA,,,,,,,,,,,
+Testudines,Kinosternidae,Sternotherus,Sternotherus_carinatus,NA,TSD,1,II,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Kinosternidae,Sternotherus,Sternotherus_depressus,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Kinosternidae,Sternotherus,Sternotherus_intermedius,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Kinosternidae,Sternotherus,Sternotherus_minor,NA,TSD,1,II,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Kinosternidae,Sternotherus,Sternotherus_odoratus,NA,TSD,1,II,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Kinosternidae,Sternotherus,Sternotherus_peltifer,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Testudinidae,Stigmochelys,Stigmochelys_pardalis,NA,TSD,1,NA,NA,Database.csv,"Hennig, A. S. (2020). Incubating chelonian eggs. Edition Chimaira.",NA,No access to source 2,,,,,,,,,,,
+Testudines,Emydidae,Terrapene,Terrapene_carolina,"carolina, bauri, major",TSD,1,Ia,1,Database.csv,NA,NA,T. c. bauri pattern appears almost type II,,,,,,,,,,,
+Testudines,Emydidae,Terrapene,Terrapene_coahuila,NA,TSD,1,Ia,1,"Bauer, M., & Jasser-Häger, I. (2006). The Mexican aquatic box turtle, Terrapene coahuila Schmidt and Owens, 1944. Husbandry and breeding to the F2 generation. Radiata, 15, 40-49.",NA,NA,"No access; cited by Howeth, J. G., & Brown, W. S. (2011). Terrapene carolina Schmidt and Owens 1944 - Coahuilan box turtle. Chelonian Research Monographs, 5, 49.1-49.13.",,,,,,,,,,,
+Testudines,Emydidae,Terrapene,Terrapene_mexicana,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Emydidae,Terrapene,Terrapene_nelsoni,"nelsoni, klauberi",NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Emydidae,Terrapene,Terrapene_ornata,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Emydidae,Terrapene,Terrapene_triunguis,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Emydidae,Terrapene,Terrapene_yucatana,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Testudinidae,Testudo,Testudo_graeca,"graeca, armeniaca, buxtoni, cyrenaica, ibera, marokkensis, nabeulensis, terrestris, whitei, zarudnyi",TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Testudinidae,Testudo,Testudo_hermanni,"hermanni, boettgeri",TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Testudinidae,Testudo,Testudo_horsfieldii,"horsfieldii, bogdanovi, kazachstanica, kuznetzovi, rustamovi",NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Testudinidae,Testudo,Testudo_kleinmanni,NA,TSD,1,Ia,0,Database.csv,"EAZA Reptile Taxon Advisory Group. (2019). Best practice guidelines for the Egyptian tortoise (Testudo kleinmanni). EAZA Executive Office, Amsterdam.",NA,No data supporting type classification,,,,,,,,,,,
+Testudines,Testudinidae,Testudo,Testudo_marginata,NA,TSD,1,Ia,1,"Leone, C., & Hermes, A. (2017). Testudo marginata: Care statistics in regions of the United States with notes on the recognition of possible subspecies. Retrieved from https://www.hermannihaven.com/t-marginata-care-statistics",NA,NA,No supporting data; classification confident based on writer/breeder expertise,,,,,,,,,,,
+Testudines,Emydidae,Trachemys,Trachemys_adiutrix,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Emydidae,Trachemys,Trachemys_callirostris,"callirostris, chichiriviche",TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Emydidae,Trachemys,Trachemys_decorata,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Emydidae,Trachemys,Trachemys_decussata,"decussata, angusta",NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Emydidae,Trachemys,Trachemys_dorbigni,NA,TSD,1,NA,NA,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Emydidae,Trachemys,Trachemys_gaigeae,NA,TSD,0,Ia,0,"Girondot, M. (2010). Sex in common pet turtles. WebmedCentral Veterinary Medicine, 1(10), WMC00877.",NA,NA,No data or reference supporting SDM/Type classification,,,,,,,,,,,
+Testudines,Emydidae,Trachemys,Trachemys_grayi,"grayi, emolli, panamensis",NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Emydidae,Trachemys,Trachemys_hartwegi,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Emydidae,Trachemys,Trachemys_medemi,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Emydidae,Trachemys,Trachemys_nebulosa,"nebulosa, hiltoni",NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Emydidae,Trachemys,Trachemys_ornata,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Emydidae,Trachemys,Trachemys_scripta,"scripta, elegans, troostii",TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Emydidae,Trachemys,Trachemys_stejnegeri,"stejnegeri, malonei, vicina",NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Emydidae,Trachemys,Trachemys_taylori,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Emydidae,Trachemys,Trachemys_terrapen,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Emydidae,Trachemys,Trachemys_venusta,"venusta, cataspila, iversoni, uhrigi",TSD,1,Ia,1,Database.csv,NA,NA,NA,,,,,,,,,,,
+Testudines,Emydidae,Trachemys,Trachemys_yaquia,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Trionychidae,Trionyx,Trionyx_triunguis,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,
+Testudines,Geoemydidae,Vijayachelys,Vijayachelys_silvatica,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,,,,,

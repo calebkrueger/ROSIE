@@ -25,3 +25,6 @@ Additional databases you may be interested in:
 ----------------------------------------------------------------------------------------------------
 
 The initial version of ROSIE focuses solely on the order Testudines. Future updates will expand coverage to include all non-avian reptiles, and biannual updates will maintain its up-to-date nature. Changes to the database will be outlined here in future versions, and all versions are available at 10.5281/zenodo.4670573.
+
+v1.0.1
+-General data corrections, addition of new sources published during or before 2020
