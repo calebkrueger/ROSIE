@@ -5,28 +5,38 @@ Family,Text,Family of study organism in reference
 Genus,Text,Genus of study organism in reference
 Species,Text,Species of study organism in reference
 Subspecies,Text,Subspecies of study organism in reference
-Species_Listed_As,Text,Scientific name of study organism provided in reference if not matching current taxonomy
+Listed_As,Text,Scientific name of study organism provided in reference if not matching current taxonomy / nomenclature
 SDM,Text,Confirmed or likely sex-determining mechanism of species
 SDM_Confirmed,0,SDM likely
 ,1,SDM certain
-Location,Text,Description of sampling location for eggs or location of incubation if sampling location is not provided
-Latitude,Numeric,North-south coordinates for location in decimal degrees
-Longitude,Numeric,East-west coordinates for location in decimal degrees
-Accurate,0,"Organisms sampled over a large area (e.g., multiple states/provinces) or description of location is vague (e.g., ""Southeast United States"")"
-,0.5,"Organisms sampled over an intermediately-sized area (state county, several close water bodies, etc.)"
-,1,"Organisms sampled in a small area, well-described location"
+Location,Text,"Description of wild sampling location, or native range of species if captive or location not provided - ranges based on Turtles of the World Species Checklist (https://iucn-tftsg.org/checklist/)"
+Latitude,Numeric,North-south coordinates for location in decimal degrees - commonly calculated as halfway between northernmost and southernmost point of the location
+Longitude,Numeric,East-west coordinates for location in decimal degrees - commonly calculated as halfway between easternmost and westernmost point of the location
+Latitude_Range,Numeric,North-south extent of location area in decimal degrees
+Longitude_Range,Numeric,East-west extent of location area in decimal degrees
+Accurate,0,"Organisms sampled over a large area (e.g., multiple states/provinces) or description of location is vague (e.g., ""Southeast United States"") - arbitrarily set to when Latitude_Range or Longitude_Range > 7"
+,0.5,"Organisms sampled over an intermediately-sized area (state county, several close water bodies, etc.) - arbitrarily set to when Latitude_Range or Longitude_Range are between 1.2 and 7"
+,1,"Organisms sampled in a small area, well-described location - arbitrarily set to when Latitude_Range and Longitude_Range < 1.2"
 Captive,0,Eggs taken from wild individuals
 ,0.5,Eggs taken from both captive and wild individuals
 ,1,Eggs taken from captive individuals; includes wild-caught and captive-raised
+Captive_Location,Text,Description of facility or location where captive individuals are held during breeding / nesting
+Captive_Latitude,Numeric,North-south coordinates for location in decimal degrees - commonly calculated as halfway between northernmost and southernmost point of the location
+Captive_Longitude,Numeric,East-west coordinates for location in decimal degrees - commonly calculated as halfway between easternmost and westernmost point of the location
+Captive_Latitude_Range,Numeric,North-south extent of location area in decimal degrees
+Captive_Longitude_Range,Numeric,East-west extent of location area in decimal degrees
+Captive_Accurate,0,"Description of location is vague (e.g., ""Southeast United States"") or facility cannot be located - arbitrarily set to when Captive_Latitude_Range or Captive_Longitude_Range > 7"
+,0.5,"Description of location is somewhat vague (e.g., within a certain province, country) - arbitrarily set to when Captive_Latitude_Range or Captive_Longitude_Range are between 1.2 and 7"
+,1,Location is known and relatively small - arbitrarily set to when Captive_Latitude_Range and Captive_Longitude_Range < 1.2
 Outdoors,0,Nesting adults live indoors
 ,0.5,Nesting adults live indoors and outdoors
 ,1,Nesting adults live outdoors
 Within_Species_Range,0,Nesting adults live within native range of the species
 ,1,Nesting adults live outside native range of the species
-Nest_Year_Start,Integer,Start of turtle nesting / egg collection
-Nest_Year_Finish,Integer,End of turtle nesting / egg collection
-Nest_Month_Start,Integer,Start of turtle nesting / egg collection
-Nest_Month_Finish,Integer,End of turtle nesting / egg collection
+First_Year,Integer,Start of turtle nesting / egg collection
+Last_Year,Integer,End of turtle nesting / egg collection
+First_Month,Integer,Start of turtle nesting / egg collection
+Last_Month,Integer,End of turtle nesting / egg collection
 Incubation_Setup,Artificial nest,Eggs incubated in a human-made nest
 ,Backswitch,Eggs switched between incubation temperatures at select points in development
 ,Constant,"Eggs incubated at single, unchanging temperature throughout development"
@@ -59,8 +69,8 @@ Mean_Temp_SD,Numeric,Standard deviation of mean temperature value in degrees Cel
 Min_Temp,Numeric,Minimum temperature experienced during incubation in degrees Celsius
 Max_Temp,Numeric,Maximum temperature experienced during incubation in degrees Celsius
 TSP_Mean_Temp,Numeric,Mean temperature during the thermosensitive period of development (TSP) in degrees Celsius
-TSP_Mean_SE,Numeric,Standard error of mean temperature during TSP in degrees Celsius
-TSP_Mean_SD,Numeric,Standard deviation of mean temperature during TSP in degrees Celsius
+TSP_Mean_Temp_SE,Numeric,Standard error of mean temperature during TSP in degrees Celsius
+TSP_Mean_Temp_SD,Numeric,Standard deviation of mean temperature during TSP in degrees Celsius
 TSP_Variance,Numeric,Variance of mean temperature during TSP in degrees Celsius
 TSP_Min_Temp,Numeric,Minimum temperature experienced during the TSP in degrees Celsius
 TSP_Max_Temp,Numeric,Maximum temperature experienced during the TSP in degrees Celsius
@@ -68,14 +78,14 @@ Backswitch_Start,Integer,Day at which eggs are switched to second incubation tem
 ,Text,Developmental stage at which eggs are switched to second incubation temperature
 Backswitch_Length,Integer,Length of time spent at second incubation temperature in days
 ,Text,Developmental stage at which eggs leave the second incubation temperature
-Backswitch_Base_Temp,Numeric,Incubation temperature in degrees Celsius prior to first switch
-Backswitch_Temp,Numeric,Incubation temperature in degrees Celsius after first switch
-Backswitch_Final_Temp,Numeric,Incubation temperature in degrees Celsius after second switch
+Backswitch_Temp1,Numeric,Incubation temperature in degrees Celsius prior to first switch
+Backswitch_Temp2,Numeric,Incubation temperature in degrees Celsius after first switch
+Backswitch_Temp3,Numeric,Incubation temperature in degrees Celsius after second switch
 Chemical_Treatment,Text,Name of chemical applied during embryonic development
 Chemical_Mass_μg,Numeric,Mass of chemical applied to egg in micrograms
 Chemical_Concentration,Numeric,"Molar concentration of chemical solution applied to egg if liquid, % concentration for gases and ethanol given as a value between 0 and 1"
 Chemical_Volume_μL,Numeric,Volume of chemical solution applied to egg in microliters
-Number_Applications,Integer,Number of times the chemical treatment was applied
+Applications,Integer,Number of times the chemical treatment was applied
 ,Daily,Treatment applied every day of incubation
 ,Constant,Eggs exposed to gaseous treatment continually
 Application_Route,Gas,"Gas concentrations (CO2, O2) manipulated in incubation chambers"
@@ -92,12 +102,12 @@ Clutch_ID,Integer,Unique numbers of each clutch used in specific data row
 Total_Incubated_Experiment,Integer,Total number of eggs used in reference
 Total_Incubated_Treatment,Integer,Number of eggs used in specific data row
 Total_Hatched,Integer,Number of hatchlings produced
-Proportion_Hatching,Numeric,Proportion of eggs producing hatchlings
-Mean_Incubation_Duration,Numeric,Mean time in days between beginning of incubation and hatching
-Incubation_Standard_Error,Numeric,Standard error of mean incubation duration
-Incubation_Standard_Deviation,Numeric,Standard deviation of mean incubation duration
-Min_Incubation_Duration,Numeric,Shortest incubation duration in days
-Max_Incubation_Duration,Numeric,Longest incubation duration in days
+Proportion_Hatched,Numeric,Proportion of eggs producing hatchlings
+Mean_Incubation_Length,Numeric,Mean time in days between beginning of incubation and hatching
+Mean_Incubation_Length_SE,Numeric,Standard error of mean incubation duration
+Mean_Incubation_Length_SD,Numeric,Standard deviation of mean incubation duration
+Min_Incubation_Length,Numeric,Shortest incubation duration in days
+Max_Incubation_Length,Numeric,Longest incubation duration in days
 Sexing_Method,Endoscopy,Determined sex via endoscopic examination of gonads
 ,Histology,Determined sex via microscopic examination of gonad slides
 ,Hormone assay,Determined sex via radioimmunoassays of relevant hormones
@@ -139,6 +149,7 @@ Order,Text,Order of study organism in data row
 Family,Text,Family of study organism in data row
 Genus,Text,Genus of study organism in data row
 Species,Text,Species of study organism in data row
+Subspecies,Text,List of recognized subspecies of study organism in data row
 SDM,TSD,Species exhibits temperature-dependent sex determination
 ,GSD,Species exhibits genotypic sex determination
 SDM_Confidence,0,SDM classification not confidently assigned
