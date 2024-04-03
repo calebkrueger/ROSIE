@@ -132,7 +132,7 @@ Testudines,Emydidae,Graptemys,Graptemys_flavimaculata,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Testudines,Emydidae,Graptemys,Graptemys_geographica,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA,NA,NA
 Testudines,Emydidae,Graptemys,Graptemys_gibbonsi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Testudines,Emydidae,Graptemys,Graptemys_nigrinoda,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA,NA,NA
-Testudines,Emydidae,Graptemys,Graptemys_oculifera,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Testudines,Emydidae,Graptemys,Graptemys_oculifera,NA,TSD,0,NA,NA,U. S. Fish and Wildlife Service. (2023). Ringed map turtle (Graptemys oculifera). 5-year review: Summary and evaluation. ,NA,NA,NA,NA,NA
 Testudines,Emydidae,Graptemys,Graptemys_ouachitensis,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA,NA,NA
 Testudines,Emydidae,Graptemys,Graptemys_pearlensis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Testudines,Emydidae,Graptemys,Graptemys_pseudogeographica,"pseudogeographica, kohnii",TSD,1,Ia,1,Database.csv,NA,NA,NA,NA,NA
@@ -218,7 +218,7 @@ Testudines,Chelidae,Mesoclemmys,Mesoclemmys_wermuthi,NA,NA,NA,NA,NA,NA,NA,NA,NA,
 Testudines,Chelidae,Mesoclemmys,Mesoclemmys_zuliae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Testudines,Geoemydidae,Morenia,Morenia_ocellata,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Testudines,Geoemydidae,Morenia,Morenia_petersi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Chelidae,Myuchelys,Myuchelys_bellii,NA,GSD,1,XY,1,"Dissanayake, D. S. B., Streeting, L. M., Georges, A., & Bower, D. S. (2022). A male-specific sex marker for the endangered western sawshelled turtle (Myuchelys bellii) using in silico whole-genome subtraction. Conservation Genetics Resources, ",NA,NA,NA,NA,NA
+Testudines,Chelidae,Myuchelys,Myuchelys_bellii,NA,GSD,1,XY,1,"Dissanayake, D. S. B., Streeting, L. M., Georges, A., & Bower, D. S. (2022). A male-specific sex marker for the endangered western sawshelled turtle (Myuchelys bellii) using in silico whole-genome subtraction. Conservation Genetics Resources, 14(2), 231-236.",NA,NA,NA,NA,NA
 Testudines,Chelidae,Myuchelys,Myuchelys_georgesi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Testudines,Chelidae,Myuchelys,Myuchelys_latisternum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Testudines,Chelidae,Myuchelys,Myuchelys_purvisi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -236,7 +236,7 @@ Testudines,Geoemydidae,Pangshura,Pangshura_sylhetensis,NA,NA,NA,NA,NA,NA,NA,NA,N
 Testudines,Geoemydidae,Pangshura,Pangshura_tecta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Testudines,Geoemydidae,Pangshura,Pangshura_tentoria,"tentoria, circumdata, flaviventer",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Testudines,Trionychidae,Pelochelys,Pelochelys_bibroni,NA,GSD,0,NA,NA,"Georges, A., Guarino, F., & Bito, B. (2005). Turtles of the TransFly. Report to the Suki/Aramba Wildlife Management Committee, Serki, Western Province, Papua New Guinea by the Institute for Applied Ecology, University of Canberra. October 2005. 1-31.",NA,NA,NA,NA,No data or reference supporting SDM classification
-Testudines,Trionychidae,Pelochelys,Pelochelys_cantorii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Testudines,Trionychidae,Pelochelys,Pelochelys_cantorii,NA,GSD,1,ZW,1,"Liu, X., Liu, H., Wang, Y., Li, M., Ji, L., Wang, K., Wei, C., Li, W., Chen, C., Yu, L., Zhu, X., & Hong, X. (2023). Chromosome-level analysis of the Pelochelys cantorii genome provides insights to its immunity, growth and longevity. Biology, 12(7), 939.",NA,NA,NA,NA,NA
 Testudines,Trionychidae,Pelochelys,Pelochelys_signifera,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Testudines,Trionychidae,Pelodiscus,Pelodiscus_axenaria,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Testudines,Trionychidae,Pelodiscus,Pelodiscus_huangshanensis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -283,7 +283,7 @@ Testudines,Podocnemididae,Podocnemis,Podocnemis_expansa,NA,TSD,1,Ia,0,Database.c
 Testudines,Podocnemididae,Podocnemis,Podocnemis_lewyana,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA,NA,NA
 Testudines,Podocnemididae,Podocnemis,Podocnemis_sextuberculata,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA,NA,NA
 Testudines,Podocnemididae,Podocnemis,Podocnemis_unifilis,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA,NA,NA
-Testudines,Podocnemididae,Podocnemis,Podocnemis_vogli,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Testudines,Podocnemididae,Podocnemis,Podocnemis_vogli,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA,NA,NA
 Testudines,Testudinidae,Psammobates,Psammobates_geometricus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Testudines,Testudinidae,Psammobates,Psammobates_oculifer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Testudines,Testudinidae,Psammobates,Psammobates_tentorius,"tentorius, trimeni, verroxii",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -299,7 +299,7 @@ Testudines,Emydidae,Pseudemys,Pseudemys_texana,NA,TSD,1,Ia,1,Database.csv,NA,NA,
 Testudines,Testudinidae,Pyxis,Pyxis_arachnoides,"arachnoides, brygooi, oblonga",TSD,1,NA,NA,Database.csv,NA,NA,NA,NA,NA
 Testudines,Testudinidae,Pyxis,Pyxis_planicauda,NA,TSD,1,Ia,1,Database.csv,NA,NA,NA,NA,NA
 Testudines,Trionychidae,Rafetus,Rafetus_euphraticus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Testudines,Trionychidae,Rafetus,Rafetus_swinhoei,NA,GSD,1,ZW,1,"Ren, Y., Zhang, Q., Yan, X., Hou, D., Huang, H., Li, C., Rao, D., & Li, Y. (2022). Genomic insights into the evolution of the critically endangered soft-shelled turtle Rafetus swinhoei. Molecular Ecology Resources, ",NA,NA,NA,NA,NA
+Testudines,Trionychidae,Rafetus,Rafetus_swinhoei,NA,GSD,1,ZW,1,"Ren, Y., Zhang, Q., Yan, X., Hou, D., Huang, H., Li, C., Rao, D., & Li, Y. (2022). Genomic insights into the evolution of the critically endangered soft-shelled turtle Rafetus swinhoei. Molecular Ecology Resources, 22(5), 1972-1985.",NA,NA,NA,NA,NA
 Testudines,Chelidae,Ranacephala,Ranacephala_hogei,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Testudines,Chelidae,Rheodytes,Rheodytes_leukops,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Testudines,Chelidae,Rhinemys,Rhinemys_rufipes,NA,GSD,1,XY,1,"Viana, P. F., Feldberg, E., Cioffi, M. B., de Carvalho, V. T., Menezes, S., Vogt, R. C., Liehr, T., & Ezaz, T. (2020). The Amazonian red side-necked turtle Rhinemys rufipes (Spix, 1824) (Testudines, Chelidae) has a GSD sex-determining mechanism with an ancient XY sex microchromosome system. Cells, 9(9), 2088.",NA,NA,NA,NA,NA

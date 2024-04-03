@@ -27,12 +27,23 @@ Additional databases you may be interested in:
 The initial version of ROSIE focuses solely on the order Testudines. Future updates will expand coverage to include all non-avian reptiles, and biannual updates will maintain its up-to-date nature. Changes to the database will be outlined here in future versions, and all versions are available at 10.5281/zenodo.4670573.
 
 v1.0.1
+
 -General data corrections, addition of new sources published during or before 2020
 
 v1.0.2
+
 -General data corrections, addition of new sources published since last update
+
 -Edited locations to include coordinates for both source population and captive location where relevant
+
 -Added rough estimate of lat-long range for locations
+
 -Coordinates for broad locations (e.g., "Florida, USA") now based on overlap of given location name and species range maps from the Turtles of the World Species checklist (https://iucn-tftsg.org/checklist/) rather than the given location alone
+
 -Changes to "Metadata.csv" to reflect addition/removal/renaming of select columns
+
 -Added two additional "Source" columns to "SDM.csv" file
+
+v1.0.3
+
+-General data corrections, addition of new sources published since last update
